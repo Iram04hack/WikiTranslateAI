@@ -1,0 +1,32 @@
+extraction:
+  default_language: en
+  include_html: true
+  include_wikitext: true
+languages:
+  source:
+  - en
+  - fr
+  target:
+  - fon
+  - dindi
+  - ewe
+  - yor
+paths:
+  articles_cleaned: data/articles_cleaned
+  articles_raw: data/articles_raw
+  articles_segmented: data/articles_segmented
+  articles_translated: data/articles_translated
+  data_dir: data
+  glossary_db: data/glossaries/glossary.db
+segmentation:
+  max_segment_length: 500
+  min_segment_length: 20
+translation:
+  api_key: ''
+  api_version: 2024-05-01-preview
+  azure_endpoint: ''
+  max_retries: 3
+  model: gpt-4o-pionners07
+  rate_limit_delay: 0.5
+  retry_delay: 2
+  use_glossary: true

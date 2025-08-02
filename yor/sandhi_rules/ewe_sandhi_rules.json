@@ -1,0 +1,15 @@
+{
+  "language": "ewe",
+  "rules": [
+    {
+      "name": "Downstep",
+      "description": "Abaissement graduel des tons hauts",
+      "pattern": "HIGH + HIGH",
+      "context": "sequence",
+      "transformation": "Second HIGH -> MID",
+      "examples": [
+        "é + é -> é ē"
+      ]
+    }
+  ]
+}

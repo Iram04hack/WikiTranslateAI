@@ -1,0 +1,127 @@
+{
+  "name": "Règles linguistiques de l'Ewe",
+  "description": "Règles grammaticales et particularités de l'Ewe (Ghana/Togo)",
+  "noun_classes": [
+    {
+      "name": "Général",
+      "singular_prefix": "",
+      "plural_prefix": "",
+      "singular_suffix": "",
+      "plural_suffix": "wo",
+      "examples": [
+        "ame (personne)",
+        "amewo (personnes)"
+      ]
+    }
+  ],
+  "verb_tenses": [
+    {
+      "name": "Présent",
+      "marker": "le ... m",
+      "position": "surround",
+      "examples": [
+        "me le nu ɖu m (je mange)"
+      ]
+    },
+    {
+      "name": "Passé",
+      "marker": "",
+      "position": "none",
+      "examples": [
+        "me ɖu nu (j'ai mangé)"
+      ]
+    },
+    {
+      "name": "Futur",
+      "marker": "a",
+      "position": "before",
+      "examples": [
+        "ma ɖu nu (je mangerai)"
+      ]
+    }
+  ],
+  "pronouns": {
+    "personal": [
+      {
+        "person": "1sg",
+        "form": "me",
+        "meaning": "je"
+      },
+      {
+        "person": "2sg",
+        "form": "nè",
+        "meaning": "tu"
+      },
+      {
+        "person": "3sg",
+        "form": "e",
+        "meaning": "il/elle"
+      },
+      {
+        "person": "1pl",
+        "form": "míe",
+        "meaning": "nous"
+      },
+      {
+        "person": "2pl",
+        "form": "mie",
+        "meaning": "vous"
+      },
+      {
+        "person": "3pl",
+        "form": "wo",
+        "meaning": "ils/elles"
+      }
+    ],
+    "possessive": [
+      {
+        "person": "1sg",
+        "form": "nye",
+        "meaning": "mon/ma"
+      },
+      {
+        "person": "2sg",
+        "form": "wò",
+        "meaning": "ton/ta"
+      },
+      {
+        "person": "3sg",
+        "form": "e",
+        "meaning": "son/sa"
+      },
+      {
+        "person": "1pl",
+        "form": "míaƒe",
+        "meaning": "notre"
+      },
+      {
+        "person": "2pl",
+        "form": "miaƒe",
+        "meaning": "votre"
+      },
+      {
+        "person": "3pl",
+        "form": "woƒe",
+        "meaning": "leur"
+      }
+    ]
+  },
+  "word_order": "SVO",
+  "adjective_position": "after_noun",
+  "special_rules": [
+    {
+      "name": "Négation",
+      "pattern": "me ... o",
+      "examples": [
+        "nyemeyi o (je ne suis pas allé)"
+      ]
+    },
+    {
+      "name": "Reduplication",
+      "pattern": "repetition de la base verbale",
+      "examples": [
+        "zɔzɔ (marcher beaucoup)"
+      ]
+    }
+  ]
+}

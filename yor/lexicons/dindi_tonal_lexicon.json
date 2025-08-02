@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "language": "dindi",
+    "tone_system": "2-level",
+    "description": "Lexique tonal de base pour le dindi"
+  },
+  "words": {
+    "ay": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ay"
+      ],
+      "pos": "pronoun",
+      "meaning": "je"
+    },
+    "ni": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ni"
+      ],
+      "pos": "pronoun",
+      "meaning": "tu"
+    },
+    "a": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "a"
+      ],
+      "pos": "pronoun",
+      "meaning": "il/elle"
+    },
+    "tɛ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "tɛ"
+      ],
+      "pos": "verb",
+      "meaning": "manger"
+    },
+    "koy": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "koy"
+      ],
+      "pos": "verb",
+      "meaning": "aller"
+    }
+  }
+}

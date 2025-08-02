@@ -1,0 +1,96 @@
+{
+  "name": "Entités nommées du Fon",
+  "description": "Entités nommées spécifiques au Fon (Bénin)",
+  "people": [
+    {
+      "original": "Behanzin",
+      "local": "Gbɛhanzin"
+    },
+    {
+      "original": "Agadja",
+      "local": "Agaja"
+    },
+    {
+      "original": "Ghezo",
+      "local": "Gezo"
+    },
+    {
+      "original": "Toffa",
+      "local": "Tofa"
+    },
+    {
+      "original": "Adandozan",
+      "local": "Adandozan"
+    }
+  ],
+  "places": [
+    {
+      "original": "Benin",
+      "local": "Danhomɛ"
+    },
+    {
+      "original": "Abomey",
+      "local": "Agbomɛ"
+    },
+    {
+      "original": "Ouidah",
+      "local": "Glexwe"
+    },
+    {
+      "original": "Cotonou",
+      "local": "Kutonu"
+    },
+    {
+      "original": "Porto-Novo",
+      "local": "Xɔgbonou"
+    },
+    {
+      "original": "Allada",
+      "local": "Alada"
+    }
+  ],
+  "cultural_terms": [
+    {
+      "original": "Vodun",
+      "local": "Vodun"
+    },
+    {
+      "original": "Legba",
+      "local": "Legba"
+    },
+    {
+      "original": "Dambada Hwedo",
+      "local": "Dambada Hwedo"
+    },
+    {
+      "original": "Sakpata",
+      "local": "Sakpata"
+    },
+    {
+      "original": "Fa",
+      "local": "Fa"
+    }
+  ],
+  "titles": [
+    {
+      "original": "King",
+      "local": "Axɔsu"
+    },
+    {
+      "original": "Queen",
+      "local": "Kpojito"
+    },
+    {
+      "original": "Chief",
+      "local": "Dokpwɛgan"
+    },
+    {
+      "original": "Priest",
+      "local": "Bokonɔ"
+    },
+    {
+      "original": "Warrior",
+      "local": "Gangnihessou"
+    }
+  ]
+}

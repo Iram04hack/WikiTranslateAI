@@ -1,0 +1,96 @@
+{
+  "name": "Entités nommées du Yoruba",
+  "description": "Entités nommées spécifiques au Yoruba (Nigeria/Bénin)",
+  "people": [
+    {
+      "original": "Oduduwa",
+      "local": "Odùduwà"
+    },
+    {
+      "original": "Oranmiyan",
+      "local": "Ọranmiyan"
+    },
+    {
+      "original": "Shango",
+      "local": "Ṣàngó"
+    },
+    {
+      "original": "Moremi",
+      "local": "Mọremí"
+    },
+    {
+      "original": "Obafemi Awolowo",
+      "local": "Obafẹmi Awolọwọ"
+    }
+  ],
+  "places": [
+    {
+      "original": "Nigeria",
+      "local": "Nàìjíríà"
+    },
+    {
+      "original": "Ife",
+      "local": "Ilé-Ifẹ̀"
+    },
+    {
+      "original": "Oyo",
+      "local": "Ọ̀yọ́"
+    },
+    {
+      "original": "Ibadan",
+      "local": "Ìbàdàn"
+    },
+    {
+      "original": "Lagos",
+      "local": "Èkó"
+    },
+    {
+      "original": "Abeokuta",
+      "local": "Abẹ́òkúta"
+    }
+  ],
+  "cultural_terms": [
+    {
+      "original": "Orisha",
+      "local": "Òrìṣà"
+    },
+    {
+      "original": "Ifa",
+      "local": "Ifá"
+    },
+    {
+      "original": "Ogun",
+      "local": "Ògún"
+    },
+    {
+      "original": "Egungun",
+      "local": "Egúngún"
+    },
+    {
+      "original": "Aso Oke",
+      "local": "Aṣọ Òkè"
+    }
+  ],
+  "titles": [
+    {
+      "original": "King",
+      "local": "Ọba"
+    },
+    {
+      "original": "Chief",
+      "local": "Baalẹ̀"
+    },
+    {
+      "original": "Queen",
+      "local": "Ayaba"
+    },
+    {
+      "original": "Priest",
+      "local": "Babalawo"
+    },
+    {
+      "original": "Princess",
+      "local": "Ọmọba"
+    }
+  ]
+}

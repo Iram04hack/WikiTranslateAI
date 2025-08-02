@@ -1,0 +1,89 @@
+{
+  "name": "Règles orthographiques du Dindi",
+  "description": "Règles de normalisation pour le Dindi (Bénin/Togo)",
+  "tone_marks": {
+    "high": "́",
+    "low": "̀",
+    "mid": ""
+  },
+  "vowels": [
+    {
+      "base": "a",
+      "variants": [
+        "a",
+        "à",
+        "á"
+      ]
+    },
+    {
+      "base": "e",
+      "variants": [
+        "e",
+        "è",
+        "é"
+      ]
+    },
+    {
+      "base": "ɛ",
+      "variants": [
+        "ɛ",
+        "ɛ̀",
+        "ɛ́"
+      ]
+    },
+    {
+      "base": "i",
+      "variants": [
+        "i",
+        "ì",
+        "í"
+      ]
+    },
+    {
+      "base": "o",
+      "variants": [
+        "o",
+        "ò",
+        "ó"
+      ]
+    },
+    {
+      "base": "ɔ",
+      "variants": [
+        "ɔ",
+        "ɔ̀",
+        "ɔ́"
+      ]
+    },
+    {
+      "base": "u",
+      "variants": [
+        "u",
+        "ù",
+        "ú"
+      ]
+    }
+  ],
+  "nasal_marker": "̃",
+  "special_characters": [
+    "ɖ",
+    "ɛ",
+    "ɔ",
+    "ŋ"
+  ],
+  "replacements": [
+    {
+      "from": "dh",
+      "to": "ɖ"
+    },
+    {
+      "from": "ng",
+      "to": "ŋ"
+    },
+    {
+      "from": "ny",
+      "to": "ɲ"
+    }
+  ],
+  "dialectal_variations": []
+}

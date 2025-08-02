@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "language": "ewe",
+    "tone_system": "2-level",
+    "description": "Lexique tonal de base pour l'ewe"
+  },
+  "words": {
+    "me": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "me"
+      ],
+      "pos": "pronoun",
+      "meaning": "je"
+    },
+    "nè": {
+      "tones": [
+        "low"
+      ],
+      "syllables": [
+        "nè"
+      ],
+      "pos": "pronoun",
+      "meaning": "tu"
+    },
+    "é": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "é"
+      ],
+      "pos": "pronoun",
+      "meaning": "il/elle"
+    },
+    "ɖu": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ɖu"
+      ],
+      "pos": "verb",
+      "meaning": "manger"
+    },
+    "yi": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "yi"
+      ],
+      "pos": "verb",
+      "meaning": "aller"
+    },
+    "va": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "va"
+      ],
+      "pos": "verb",
+      "meaning": "venir"
+    },
+    "aƒe": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "a",
+        "ƒe"
+      ],
+      "pos": "noun",
+      "meaning": "maison"
+    },
+    "ame": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "a",
+        "me"
+      ],
+      "pos": "noun",
+      "meaning": "personne"
+    }
+  }
+}

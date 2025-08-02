@@ -1,0 +1,15 @@
+{
+  "language": "fon",
+  "rules": [
+    {
+      "name": "Tone_Assimilation",
+      "description": "Assimilation tonale entre mots adjacents",
+      "pattern": "LOW + HIGH",
+      "context": "word_boundary",
+      "transformation": "LOW -> MID / _HIGH",
+      "examples": [
+        "kò + é -> kō é"
+      ]
+    }
+  ]
+}

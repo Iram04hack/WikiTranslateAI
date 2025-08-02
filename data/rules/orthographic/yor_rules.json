@@ -1,0 +1,121 @@
+{
+  "name": "Règles orthographiques du Yoruba",
+  "description": "Règles de normalisation pour le Yoruba (Nigeria/Bénin)",
+  "tone_marks": {
+    "high": "́",
+    "low": "̀",
+    "mid": ""
+  },
+  "vowels": [
+    {
+      "base": "a",
+      "variants": [
+        "a",
+        "à",
+        "á"
+      ]
+    },
+    {
+      "base": "e",
+      "variants": [
+        "e",
+        "è",
+        "é"
+      ]
+    },
+    {
+      "base": "ẹ",
+      "variants": [
+        "ẹ",
+        "ẹ̀",
+        "ẹ́"
+      ]
+    },
+    {
+      "base": "i",
+      "variants": [
+        "i",
+        "ì",
+        "í"
+      ]
+    },
+    {
+      "base": "o",
+      "variants": [
+        "o",
+        "ò",
+        "ó"
+      ]
+    },
+    {
+      "base": "ọ",
+      "variants": [
+        "ọ",
+        "ọ̀",
+        "ọ́"
+      ]
+    },
+    {
+      "base": "u",
+      "variants": [
+        "u",
+        "ù",
+        "ú"
+      ]
+    }
+  ],
+  "nasal_marker": "̃",
+  "special_characters": [
+    "ẹ",
+    "ọ",
+    "ṣ",
+    "gb",
+    "kp"
+  ],
+  "replacements": [
+    {
+      "from": "sh",
+      "to": "ṣ"
+    },
+    {
+      "from": "e",
+      "to": "ẹ",
+      "context": "open_e"
+    },
+    {
+      "from": "o",
+      "to": "ọ",
+      "context": "open_o"
+    },
+    {
+      "from": "gb",
+      "to": "gb"
+    },
+    {
+      "from": "kp",
+      "to": "kp"
+    }
+  ],
+  "dialectal_variations": [
+    {
+      "dialect": "Oyo",
+      "variations": [
+        {
+          "from": "ẹ",
+          "to": "e",
+          "context": "word_final"
+        }
+      ]
+    },
+    {
+      "dialect": "Ijebu",
+      "variations": [
+        {
+          "from": "ṣ",
+          "to": "s",
+          "context": "all"
+        }
+      ]
+    }
+  ]
+}

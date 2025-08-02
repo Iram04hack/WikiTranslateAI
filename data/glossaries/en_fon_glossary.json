@@ -1,0 +1,32 @@
+[
+  {
+    "source_term": "computer",
+    "source_lang": "en",
+    "target_term": "ordinatɛ",
+    "target_lang": "fon",
+    "domain": "tech",
+    "context": "A computer is an electronic device that manipulates information.",
+    "confidence": 0.9,
+    "validated": true,
+    "variants": [
+      {
+        "term": "computing",
+        "is_source": true
+      },
+      {
+        "term": "ordinatɛ lɛ",
+        "is_source": false
+      }
+    ]
+  },
+  {
+    "source_term": "democracy",
+    "source_lang": "en",
+    "target_term": "togbihɛn",
+    "target_lang": "fon",
+    "domain": "politics",
+    "context": "Democracy is a system of government by the whole population.",
+    "confidence": 0.8,
+    "validated": true
+  }
+]

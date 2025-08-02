@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "language": "yoruba",
+    "tone_system": "3-level",
+    "description": "Lexique tonal de base pour le yoruba"
+  },
+  "words": {
+    "mo": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "mo"
+      ],
+      "pos": "pronoun",
+      "meaning": "je"
+    },
+    "ó": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "ó"
+      ],
+      "pos": "pronoun",
+      "meaning": "il/elle"
+    },
+    "a": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "a"
+      ],
+      "pos": "pronoun",
+      "meaning": "nous"
+    },
+    "ẹ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ẹ"
+      ],
+      "pos": "pronoun",
+      "meaning": "vous"
+    },
+    "wọ́n": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "wọ́n"
+      ],
+      "pos": "pronoun",
+      "meaning": "ils/elles"
+    },
+    "jẹ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "jẹ"
+      ],
+      "pos": "verb",
+      "meaning": "manger"
+    },
+    "lọ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "lọ"
+      ],
+      "pos": "verb",
+      "meaning": "aller"
+    },
+    "wá": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "wá"
+      ],
+      "pos": "verb",
+      "meaning": "venir"
+    },
+    "sọ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "sọ"
+      ],
+      "pos": "verb",
+      "meaning": "dire"
+    },
+    "rí": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "rí"
+      ],
+      "pos": "verb",
+      "meaning": "voir"
+    },
+    "ilé": {
+      "tones": [
+        "mid",
+        "high"
+      ],
+      "syllables": [
+        "i",
+        "lé"
+      ],
+      "pos": "noun",
+      "meaning": "maison"
+    },
+    "ọmọ": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "ọ",
+        "mọ"
+      ],
+      "pos": "noun",
+      "meaning": "enfant"
+    },
+    "obì": {
+      "tones": [
+        "mid",
+        "low"
+      ],
+      "syllables": [
+        "o",
+        "bì"
+      ],
+      "pos": "noun",
+      "meaning": "cola"
+    },
+    "àgbà": {
+      "tones": [
+        "low",
+        "low"
+      ],
+      "syllables": [
+        "à",
+        "gbà"
+      ],
+      "pos": "noun",
+      "meaning": "ancien"
+    },
+    "ti": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ti"
+      ],
+      "pos": "aux",
+      "meaning": "passé"
+    },
+    "yóò": {
+      "tones": [
+        "high",
+        "low"
+      ],
+      "syllables": [
+        "yó",
+        "ò"
+      ],
+      "pos": "aux",
+      "meaning": "futur"
+    },
+    "ń": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "ń"
+      ],
+      "pos": "aux",
+      "meaning": "présent"
+    },
+    "dára": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "dá",
+        "ra"
+      ],
+      "pos": "adj",
+      "meaning": "bon"
+    },
+    "pupa": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "pu",
+        "pa"
+      ],
+      "pos": "adj",
+      "meaning": "rouge"
+    },
+    "funfun": {
+      "tones": [
+        "mid",
+        "mid"
+      ],
+      "syllables": [
+        "fun",
+        "fun"
+      ],
+      "pos": "adj",
+      "meaning": "blanc"
+    }
+  }
+}

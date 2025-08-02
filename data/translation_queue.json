@@ -1,0 +1,12 @@
+{
+  "completed_tasks": [],
+  "failed_tasks": [],
+  "stats": {
+    "total_tasks": 1,
+    "completed_tasks": 0,
+    "failed_tasks": 0,
+    "processing_time_total": 0.0,
+    "average_processing_time": 0.0
+  },
+  "saved_at": "2025-08-01T16:02:12.808180"
+}

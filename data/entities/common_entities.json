@@ -1,0 +1,66 @@
+{
+  "name": "Entités nommées communes",
+  "description": "Entités nommées communes aux langues africaines",
+  "people": [
+    {
+      "original": "Nelson Mandela",
+      "local": "Nelson Mandela"
+    },
+    {
+      "original": "Kwame Nkrumah",
+      "local": "Kwame Nkrumah"
+    },
+    {
+      "original": "Kofi Annan",
+      "local": "Kofi Annan"
+    },
+    {
+      "original": "Wole Soyinka",
+      "local": "Wole Soyinka"
+    },
+    {
+      "original": "Chinua Achebe",
+      "local": "Chinua Achebe"
+    }
+  ],
+  "places": [
+    {
+      "original": "Africa",
+      "local": "Afrika"
+    },
+    {
+      "original": "Sahara",
+      "local": "Sahara"
+    },
+    {
+      "original": "Nile",
+      "local": "Nil"
+    },
+    {
+      "original": "Congo River",
+      "local": "Congo"
+    },
+    {
+      "original": "Lake Victoria",
+      "local": "Victoria"
+    }
+  ],
+  "organizations": [
+    {
+      "original": "African Union",
+      "local": "UA"
+    },
+    {
+      "original": "ECOWAS",
+      "local": "CEDEAO"
+    },
+    {
+      "original": "United Nations",
+      "local": "ONU"
+    },
+    {
+      "original": "World Health Organization",
+      "local": "OMS"
+    }
+  ]
+}

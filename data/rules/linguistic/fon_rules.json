@@ -1,0 +1,138 @@
+{
+  "name": "Règles linguistiques du Fon",
+  "description": "Règles grammaticales et particularités du Fon (Bénin)",
+  "noun_classes": [
+    {
+      "name": "Personnes",
+      "singular_prefix": "",
+      "plural_prefix": "",
+      "singular_suffix": "",
+      "plural_suffix": "lɛ",
+      "examples": [
+        "mɛ (personne)",
+        "mɛlɛ (personnes)"
+      ]
+    },
+    {
+      "name": "Objets",
+      "singular_prefix": "",
+      "plural_prefix": "",
+      "singular_suffix": "",
+      "plural_suffix": "lɛ",
+      "examples": [
+        "han (porte)",
+        "hanlɛ (portes)"
+      ]
+    }
+  ],
+  "verb_tenses": [
+    {
+      "name": "Présent",
+      "marker": "",
+      "position": "none",
+      "examples": [
+        "un ɖu (je mange)"
+      ]
+    },
+    {
+      "name": "Passé",
+      "marker": "kò",
+      "position": "before",
+      "examples": [
+        "un kò ɖu (j'ai mangé)"
+      ]
+    },
+    {
+      "name": "Futur",
+      "marker": "ná",
+      "position": "before",
+      "examples": [
+        "un ná ɖu (je mangerai)"
+      ]
+    }
+  ],
+  "pronouns": {
+    "personal": [
+      {
+        "person": "1sg",
+        "form": "un",
+        "meaning": "je"
+      },
+      {
+        "person": "2sg",
+        "form": "a",
+        "meaning": "tu"
+      },
+      {
+        "person": "3sg",
+        "form": "e",
+        "meaning": "il/elle"
+      },
+      {
+        "person": "1pl",
+        "form": "mí",
+        "meaning": "nous"
+      },
+      {
+        "person": "2pl",
+        "form": "mi",
+        "meaning": "vous"
+      },
+      {
+        "person": "3pl",
+        "form": "yé",
+        "meaning": "ils/elles"
+      }
+    ],
+    "possessive": [
+      {
+        "person": "1sg",
+        "form": "ce",
+        "meaning": "mon/ma"
+      },
+      {
+        "person": "2sg",
+        "form": "towe",
+        "meaning": "ton/ta"
+      },
+      {
+        "person": "3sg",
+        "form": "etɔn",
+        "meaning": "son/sa"
+      },
+      {
+        "person": "1pl",
+        "form": "mítɔn",
+        "meaning": "notre"
+      },
+      {
+        "person": "2pl",
+        "form": "mitɔn",
+        "meaning": "votre"
+      },
+      {
+        "person": "3pl",
+        "form": "yétɔn",
+        "meaning": "leur"
+      }
+    ]
+  },
+  "word_order": "SVO",
+  "adjective_position": "after_noun",
+  "special_rules": [
+    {
+      "name": "Négation",
+      "pattern": "a ... ǎ",
+      "examples": [
+        "un ná jí ǎ (je ne viendrai pas)"
+      ]
+    },
+    {
+      "name": "Interrogation",
+      "pattern": "... a?",
+      "examples": [
+        "a wa a? (es-tu venu?)"
+      ]
+    }
+  ]
+}

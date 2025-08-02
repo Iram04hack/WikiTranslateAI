@@ -1,0 +1,127 @@
+{
+  "name": "Règles linguistiques du Yoruba",
+  "description": "Règles grammaticales et particularités du Yoruba (Nigeria/Bénin)",
+  "noun_classes": [
+    {
+      "name": "Général",
+      "singular_prefix": "",
+      "plural_prefix": "àwọn",
+      "singular_suffix": "",
+      "plural_suffix": "",
+      "examples": [
+        "ọmọ (enfant)",
+        "àwọn ọmọ (enfants)"
+      ]
+    }
+  ],
+  "verb_tenses": [
+    {
+      "name": "Présent",
+      "marker": "ń",
+      "position": "before",
+      "examples": [
+        "mo ń jẹun (je mange)"
+      ]
+    },
+    {
+      "name": "Passé",
+      "marker": "ti",
+      "position": "before",
+      "examples": [
+        "mo ti jẹun (j'ai mangé)"
+      ]
+    },
+    {
+      "name": "Futur",
+      "marker": "yóò",
+      "position": "before",
+      "examples": [
+        "mo yóò jẹun (je mangerai)"
+      ]
+    }
+  ],
+  "pronouns": {
+    "personal": [
+      {
+        "person": "1sg",
+        "form": "mo/mi",
+        "meaning": "je"
+      },
+      {
+        "person": "2sg",
+        "form": "o/ìwọ",
+        "meaning": "tu"
+      },
+      {
+        "person": "3sg",
+        "form": "ó/òun",
+        "meaning": "il/elle"
+      },
+      {
+        "person": "1pl",
+        "form": "a/àwa",
+        "meaning": "nous"
+      },
+      {
+        "person": "2pl",
+        "form": "ẹ/ẹ̀yin",
+        "meaning": "vous"
+      },
+      {
+        "person": "3pl",
+        "form": "wọ́n/àwọn",
+        "meaning": "ils/elles"
+      }
+    ],
+    "possessive": [
+      {
+        "person": "1sg",
+        "form": "mi",
+        "meaning": "mon/ma"
+      },
+      {
+        "person": "2sg",
+        "form": "rẹ",
+        "meaning": "ton/ta"
+      },
+      {
+        "person": "3sg",
+        "form": "rẹ̀",
+        "meaning": "son/sa"
+      },
+      {
+        "person": "1pl",
+        "form": "wa",
+        "meaning": "notre"
+      },
+      {
+        "person": "2pl",
+        "form": "yín",
+        "meaning": "votre"
+      },
+      {
+        "person": "3pl",
+        "form": "wọn",
+        "meaning": "leur"
+      }
+    ]
+  },
+  "word_order": "SVO",
+  "adjective_position": "after_noun",
+  "special_rules": [
+    {
+      "name": "Négation",
+      "pattern": "kò/kì í",
+      "examples": [
+        "n kò lọ (je ne suis pas allé)"
+      ]
+    },
+    {
+      "name": "Reduplication",
+      "pattern": "répétition totale ou partielle",
+      "examples": [
+        "gbogbo (tout) -> gbogbogbo (tous)"
+      ]
+    }
+  ]
+}

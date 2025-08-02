@@ -1,0 +1,48 @@
+{
+  "name": "Entités nommées du Dindi",
+  "description": "Entités nommées spécifiques au Dindi (Bénin/Togo)",
+  "people": [
+    {
+      "original": "Boukari Koutou",
+      "local": "Boukari Koutou"
+    },
+    {
+      "original": "Sabi Chabi",
+      "local": "Sabi Chabi"
+    }
+  ],
+  "places": [
+    {
+      "original": "Djougou",
+      "local": "Juugu"
+    },
+    {
+      "original": "Parakou",
+      "local": "Parakuu"
+    },
+    {
+      "original": "Niger River",
+      "local": "Kwara"
+    }
+  ],
+  "cultural_terms": [
+    {
+      "original": "Dinde",
+      "local": "Dindi"
+    },
+    {
+      "original": "Baatonu",
+      "local": "Baatɔnu"
+    }
+  ],
+  "titles": [
+    {
+      "original": "Sultan",
+      "local": "Sunɔn"
+    },
+    {
+      "original": "Warrior",
+      "local": "Kɛrɛkɛtigi"
+    }
+  ]
+}

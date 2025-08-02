@@ -1,0 +1,142 @@
+{
+  "name": "Règles orthographiques de l'Ewe",
+  "description": "Règles de normalisation pour l'Ewe (Ghana/Togo)",
+  "tone_marks": {
+    "high": "́",
+    "low": "̀",
+    "mid": "",
+    "rising": "̌",
+    "falling": "̂"
+  },
+  "vowels": [
+    {
+      "base": "a",
+      "variants": [
+        "a",
+        "â",
+        "à",
+        "á",
+        "ǎ"
+      ]
+    },
+    {
+      "base": "e",
+      "variants": [
+        "e",
+        "ê",
+        "è",
+        "é",
+        "ě"
+      ]
+    },
+    {
+      "base": "ɛ",
+      "variants": [
+        "ɛ",
+        "ɛ̂",
+        "ɛ̀",
+        "ɛ́",
+        "ɛ̌"
+      ]
+    },
+    {
+      "base": "i",
+      "variants": [
+        "i",
+        "î",
+        "ì",
+        "í",
+        "ǐ"
+      ]
+    },
+    {
+      "base": "o",
+      "variants": [
+        "o",
+        "ô",
+        "ò",
+        "ó",
+        "ǒ"
+      ]
+    },
+    {
+      "base": "ɔ",
+      "variants": [
+        "ɔ",
+        "ɔ̂",
+        "ɔ̀",
+        "ɔ́",
+        "ɔ̌"
+      ]
+    },
+    {
+      "base": "u",
+      "variants": [
+        "u",
+        "û",
+        "ù",
+        "ú",
+        "ǔ"
+      ]
+    }
+  ],
+  "nasal_marker": "̃",
+  "special_characters": [
+    "ɖ",
+    "ɛ",
+    "ɔ",
+    "ŋ",
+    "ƒ",
+    "ʋ",
+    "ɣ"
+  ],
+  "replacements": [
+    {
+      "from": "dh",
+      "to": "ɖ"
+    },
+    {
+      "from": "f",
+      "to": "ƒ",
+      "context": "between_vowels"
+    },
+    {
+      "from": "ny",
+      "to": "ɲ"
+    },
+    {
+      "from": "ng",
+      "to": "ŋ"
+    },
+    {
+      "from": "x",
+      "to": "ɣ"
+    },
+    {
+      "from": "v",
+      "to": "ʋ"
+    }
+  ],
+  "dialectal_variations": [
+    {
+      "dialect": "Anlo",
+      "variations": [
+        {
+          "from": "l",
+          "to": "ɖ",
+          "context": "word_initial"
+        }
+      ]
+    },
+    {
+      "dialect": "Peki",
+      "variations": [
+        {
+          "from": "ƒ",
+          "to": "f",
+          "context": "all"
+        }
+      ]
+    }
+  ]
+}

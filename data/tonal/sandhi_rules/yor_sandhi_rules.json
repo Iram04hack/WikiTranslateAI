@@ -1,0 +1,35 @@
+{
+  "language": "yoruba",
+  "rules": [
+    {
+      "name": "High-Low_Sequence",
+      "description": "Ton haut suivi d'un ton bas en contexte rapide",
+      "pattern": "HIGH + LOW",
+      "context": "rapid_speech",
+      "transformation": "HIGH -> MID / _LOW",
+      "examples": [
+        "bá + bà -> bā bà"
+      ]
+    },
+    {
+      "name": "Tone_Spreading",
+      "description": "Propagation tonale sur les mots grammaticaux",
+      "pattern": "MID + FUNCTION_WORD",
+      "context": "grammatical",
+      "transformation": "MID spreads to function word",
+      "examples": [
+        "mo + ni -> mo ni (même ton)"
+      ]
+    },
+    {
+      "name": "Boundary_Lowering",
+      "description": "Abaissement tonal aux frontières de phrase",
+      "pattern": "ANY -> LOW",
+      "context": "phrase_final",
+      "transformation": "final tone lowered",
+      "examples": [
+        "wá -> wà (en fin de phrase)"
+      ]
+    }
+  ]
+}

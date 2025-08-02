@@ -1,0 +1,92 @@
+{
+  "name": "Entités nommées de l'Ewe",
+  "description": "Entités nommées spécifiques à l'Ewe (Ghana/Togo)",
+  "people": [
+    {
+      "original": "Togbe Tsali",
+      "local": "Tɔgbui Tsali"
+    },
+    {
+      "original": "Agokoli",
+      "local": "Agɔkɔli"
+    },
+    {
+      "original": "Sri I",
+      "local": "Sri I"
+    },
+    {
+      "original": "Foli Bebe",
+      "local": "Foli Bebe"
+    },
+    {
+      "original": "Togbe Wenya",
+      "local": "Tɔgbui Wenya"
+    }
+  ],
+  "places": [
+    {
+      "original": "Togo",
+      "local": "Togo"
+    },
+    {
+      "original": "Ghana",
+      "local": "Ghana"
+    },
+    {
+      "original": "Lome",
+      "local": "Lomé"
+    },
+    {
+      "original": "Kpalime",
+      "local": "Kpalimé"
+    },
+    {
+      "original": "Notsé",
+      "local": "Notsé"
+    },
+    {
+      "original": "Anloga",
+      "local": "Anloga"
+    }
+  ],
+  "cultural_terms": [
+    {
+      "original": "Trɔ",
+      "local": "Trɔ"
+    },
+    {
+      "original": "Afa",
+      "local": "Afa"
+    },
+    {
+      "original": "Yehwe",
+      "local": "Yehwe"
+    },
+    {
+      "original": "Hogbetsotso",
+      "local": "Hogbetsotso"
+    }
+  ],
+  "titles": [
+    {
+      "original": "King",
+      "local": "Fia"
+    },
+    {
+      "original": "Chief",
+      "local": "Tɔgbui"
+    },
+    {
+      "original": "Queen",
+      "local": "Fiaga"
+    },
+    {
+      "original": "Priest",
+      "local": "Trɔnua"
+    },
+    {
+      "original": "Elder",
+      "local": "Ametsitsi"
+    }
+  ]
+}

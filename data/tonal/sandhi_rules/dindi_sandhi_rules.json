@@ -1,0 +1,15 @@
+{
+  "language": "dindi",
+  "rules": [
+    {
+      "name": "Basic_Assimilation",
+      "description": "Assimilation tonale de base",
+      "pattern": "MID + LOW",
+      "context": "normal",
+      "transformation": "MID remains, LOW remains",
+      "examples": [
+        "basic patterns"
+      ]
+    }
+  ]
+}

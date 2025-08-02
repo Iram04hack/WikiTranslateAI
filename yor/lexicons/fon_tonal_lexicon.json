@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "language": "fon",
+    "tone_system": "3-level",
+    "description": "Lexique tonal de base pour le fon"
+  },
+  "words": {
+    "un": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "un"
+      ],
+      "pos": "pronoun",
+      "meaning": "je"
+    },
+    "à": {
+      "tones": [
+        "low"
+      ],
+      "syllables": [
+        "à"
+      ],
+      "pos": "pronoun",
+      "meaning": "tu"
+    },
+    "é": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "é"
+      ],
+      "pos": "pronoun",
+      "meaning": "il/elle"
+    },
+    "mí": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "mí"
+      ],
+      "pos": "pronoun",
+      "meaning": "nous"
+    },
+    "yé": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "yé"
+      ],
+      "pos": "pronoun",
+      "meaning": "ils/elles"
+    },
+    "ɖu": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ɖu"
+      ],
+      "pos": "verb",
+      "meaning": "manger"
+    },
+    "yi": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "yi"
+      ],
+      "pos": "verb",
+      "meaning": "aller"
+    },
+    "wá": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "wá"
+      ],
+      "pos": "verb",
+      "meaning": "venir"
+    },
+    "ɖɔ": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "ɖɔ"
+      ],
+      "pos": "verb",
+      "meaning": "dire"
+    },
+    "xwé": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "xwé"
+      ],
+      "pos": "noun",
+      "meaning": "maison"
+    },
+    "vi": {
+      "tones": [
+        "mid"
+      ],
+      "syllables": [
+        "vi"
+      ],
+      "pos": "noun",
+      "meaning": "enfant"
+    },
+    "àzɔ̀n": {
+      "tones": [
+        "low",
+        "low"
+      ],
+      "syllables": [
+        "à",
+        "zɔ̀n"
+      ],
+      "pos": "noun",
+      "meaning": "travail"
+    },
+    "kò": {
+      "tones": [
+        "low"
+      ],
+      "syllables": [
+        "kò"
+      ],
+      "pos": "aux",
+      "meaning": "passé"
+    },
+    "ná": {
+      "tones": [
+        "high"
+      ],
+      "syllables": [
+        "ná"
+      ],
+      "pos": "aux",
+      "meaning": "futur"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Règles linguistiques du Dindi",
+  "description": "Règles grammaticales et particularités du Dindi (Bénin/Togo)",
+  "noun_classes": [
+    {
+      "name": "Général",
+      "singular_prefix": "",
+      "plural_prefix": "",
+      "singular_suffix": "",
+      "plural_suffix": "yo",
+      "examples": [
+        "ɔzɔ (personne)",
+        "ɔzɔyo (personnes)"
+      ]
+    }
+  ],
+  "verb_tenses": [
+    {
+      "name": "Présent",
+      "marker": "ga",
+      "position": "after",
+      "examples": [
+        "a ga tɛ (tu manges)"
+      ]
+    },
+    {
+      "name": "Passé",
+      "marker": "na",
+      "position": "after",
+      "examples": [
+        "a na tɛ (tu as mangé)"
+      ]
+    },
+    {
+      "name": "Futur",
+      "marker": "ga na",
+      "position": "after",
+      "examples": [
+        "a ga na tɛ (tu mangeras)"
+      ]
+    }
+  ],
+  "pronouns": {
+    "personal": [
+      {
+        "person": "1sg",
+        "form": "ay",
+        "meaning": "je"
+      },
+      {
+        "person": "2sg",
+        "form": "ni",
+        "meaning": "tu"
+      },
+      {
+        "person": "3sg",
+        "form": "a",
+        "meaning": "il/elle"
+      },
+      {
+        "person": "1pl",
+        "form": "iri",
+        "meaning": "nous"
+      },
+      {
+        "person": "2pl",
+        "form": "wɔ",
+        "meaning": "vous"
+      },
+      {
+        "person": "3pl",
+        "form": "i",
+        "meaning": "ils/elles"
+      }
+    ],
+    "possessive": [
+      {
+        "person": "1sg",
+        "form": "ay",
+        "meaning": "mon/ma"
+      },
+      {
+        "person": "2sg",
+        "form": "ni",
+        "meaning": "ton/ta"
+      },
+      {
+        "person": "3sg",
+        "form": "nga",
+        "meaning": "son/sa"
+      },
+      {
+        "person": "1pl",
+        "form": "iri",
+        "meaning": "notre"
+      },
+      {
+        "person": "2pl",
+        "form": "wɔ",
+        "meaning": "votre"
+      },
+      {
+        "person": "3pl",
+        "form": "ngey",
+        "meaning": "leur"
+      }
+    ]
+  },
+  "word_order": "SOV",
+  "adjective_position": "after_noun",
+  "special_rules": [
+    {
+      "name": "Négation",
+      "pattern": "si ... wa",
+      "examples": [
+        "ay si koy wa (je ne vais pas)"
+      ]
+    }
+  ]
+}
