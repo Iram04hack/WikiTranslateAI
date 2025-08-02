@@ -1,0 +1,933 @@
+{
+  "title": "Albert Einstein",
+  "metadata": {
+    "title": "Albert Einstein",
+    "pageid": 7856,
+    "language": "fr",
+    "categories": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Biographie",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 3855,
+        "anchor": "Biographie",
+        "linkAnchor": "Biographie"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Jeunesse",
+        "number": "1.1",
+        "index": "2",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 3872,
+        "anchor": "Jeunesse",
+        "linkAnchor": "Jeunesse"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Formation",
+        "number": "1.2",
+        "index": "3",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 7578,
+        "anchor": "Formation",
+        "linkAnchor": "Formation"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Carrière",
+        "number": "1.3",
+        "index": "4",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 13540,
+        "anchor": "Carrière",
+        "linkAnchor": "Carrière"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Mort",
+        "number": "1.4",
+        "index": "5",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 22378,
+        "anchor": "Mort",
+        "linkAnchor": "Mort"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Travail scientifique",
+        "number": "2",
+        "index": "6",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 24962,
+        "anchor": "Travail_scientifique",
+        "linkAnchor": "Travail_scientifique"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Année 1905",
+        "number": "2.1",
+        "index": "7",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 24989,
+        "anchor": "Année_1905",
+        "linkAnchor": "Année_1905"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Années de reconnaissance (1910-1935)",
+        "number": "2.2",
+        "index": "8",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 29444,
+        "anchor": "Années_de_reconnaissance_(1910-1935)",
+        "linkAnchor": "Années_de_reconnaissance_(1910-1935)"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Vérifications",
+        "number": "2.3",
+        "index": "9",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 33529,
+        "anchor": "Vérifications",
+        "linkAnchor": "Vérifications"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Personnalité",
+        "number": "3",
+        "index": "10",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 36801,
+        "anchor": "Personnalité",
+        "linkAnchor": "Personnalité"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et la politique",
+        "number": "3.1",
+        "index": "11",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 36820,
+        "anchor": "Einstein_et_la_politique",
+        "linkAnchor": "Einstein_et_la_politique"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et la lutte contre les discriminations raciales",
+        "number": "3.2",
+        "index": "12",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 50110,
+        "anchor": "Einstein_et_la_lutte_contre_les_discriminations_raciales",
+        "linkAnchor": "Einstein_et_la_lutte_contre_les_discriminations_raciales"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Vie sociale",
+        "number": "3.3",
+        "index": "13",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 53672,
+        "anchor": "Vie_sociale",
+        "linkAnchor": "Vie_sociale"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Vie familiale",
+        "number": "3.4",
+        "index": "14",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 55651,
+        "anchor": "Vie_familiale",
+        "linkAnchor": "Vie_familiale"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et la religion",
+        "number": "3.5",
+        "index": "15",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 60250,
+        "anchor": "Einstein_et_la_religion",
+        "linkAnchor": "Einstein_et_la_religion"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et la philosophie",
+        "number": "3.6",
+        "index": "16",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 69246,
+        "anchor": "Einstein_et_la_philosophie",
+        "linkAnchor": "Einstein_et_la_philosophie"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et le judaïsme",
+        "number": "3.7",
+        "index": "17",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 71086,
+        "anchor": "Einstein_et_le_judaïsme",
+        "linkAnchor": "Einstein_et_le_judaïsme"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et les mathématiques",
+        "number": "3.8",
+        "index": "18",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 72264,
+        "anchor": "Einstein_et_les_mathématiques",
+        "linkAnchor": "Einstein_et_les_mathématiques"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et l'astrologie",
+        "number": "3.9",
+        "index": "19",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 74086,
+        "anchor": "Einstein_et_l'astrologie",
+        "linkAnchor": "Einstein_et_l'astrologie"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Einstein et le végétarisme",
+        "number": "3.10",
+        "index": "20",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 75947,
+        "anchor": "Einstein_et_le_végétarisme",
+        "linkAnchor": "Einstein_et_le_végétarisme"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Inventions et brevets",
+        "number": "4",
+        "index": "21",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 77806,
+        "anchor": "Inventions_et_brevets",
+        "linkAnchor": "Inventions_et_brevets"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Divers",
+        "number": "5",
+        "index": "22",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 79509,
+        "anchor": "Divers",
+        "linkAnchor": "Divers"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Distinctions",
+        "number": "6",
+        "index": "23",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 82167,
+        "anchor": "Distinctions",
+        "linkAnchor": "Distinctions"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Publications",
+        "number": "7",
+        "index": "24",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 82335,
+        "anchor": "Publications",
+        "linkAnchor": "Publications"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Articles scientifiques (sélection)",
+        "number": "7.1",
+        "index": "25",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 82354,
+        "anchor": "Articles_scientifiques_(sélection)",
+        "linkAnchor": "Articles_scientifiques_(sélection)"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Autres ouvrages",
+        "number": "7.2",
+        "index": "26",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 84474,
+        "anchor": "Autres_ouvrages",
+        "linkAnchor": "Autres_ouvrages"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Postérité",
+        "number": "8",
+        "index": "27",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 86557,
+        "anchor": "Postérité",
+        "linkAnchor": "Postérité"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Hommages scientifiques",
+        "number": "8.1",
+        "index": "28",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 87228,
+        "anchor": "Hommages_scientifiques",
+        "linkAnchor": "Hommages_scientifiques"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Le cerveau d'Einstein",
+        "number": "8.2",
+        "index": "29",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 87555,
+        "anchor": "Le_cerveau_d'Einstein",
+        "linkAnchor": "Le_cerveau_d'Einstein"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Photographie à la langue tirée",
+        "number": "8.3",
+        "index": "30",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 91442,
+        "anchor": "Photographie_à_la_langue_tirée",
+        "linkAnchor": "Photographie_à_la_langue_tirée"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Sculptures",
+        "number": "8.4",
+        "index": "31",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 93520,
+        "anchor": "Sculptures",
+        "linkAnchor": "Sculptures"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "En pied",
+        "number": "8.4.1",
+        "index": "32",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 93539,
+        "anchor": "En_pied",
+        "linkAnchor": "En_pied"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Bustes",
+        "number": "8.4.2",
+        "index": "33",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 94233,
+        "anchor": "Bustes",
+        "linkAnchor": "Bustes"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Philatélie",
+        "number": "8.5",
+        "index": "34",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 95445,
+        "anchor": "Philatélie",
+        "linkAnchor": "Philatélie"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Peinture murale",
+        "number": "8.6",
+        "index": "35",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 95989,
+        "anchor": "Peinture_murale",
+        "linkAnchor": "Peinture_murale"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "BD",
+        "number": "8.7",
+        "index": "36",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96362,
+        "anchor": "BD",
+        "linkAnchor": "BD"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Notes et références",
+        "number": "9",
+        "index": "37",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96518,
+        "anchor": "Notes_et_références",
+        "linkAnchor": "Notes_et_références"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Notes",
+        "number": "9.1",
+        "index": "38",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96544,
+        "anchor": "Notes",
+        "linkAnchor": "Notes"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Références",
+        "number": "9.2",
+        "index": "39",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96583,
+        "anchor": "Références",
+        "linkAnchor": "Références"
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Voir aussi",
+        "number": "10",
+        "index": "40",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96618,
+        "anchor": "Voir_aussi",
+        "linkAnchor": "Voir_aussi"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Bibliographie",
+        "number": "10.1",
+        "index": "41",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 96764,
+        "anchor": "Bibliographie",
+        "linkAnchor": "Bibliographie"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Ouvrages de vulgarisation",
+        "number": "10.1.1",
+        "index": "42",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 100789,
+        "anchor": "Ouvrages_de_vulgarisation",
+        "linkAnchor": "Ouvrages_de_vulgarisation"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Ouvrages techniques",
+        "number": "10.1.2",
+        "index": "43",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 102074,
+        "anchor": "Ouvrages_techniques",
+        "linkAnchor": "Ouvrages_techniques"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Articles",
+        "number": "10.1.3",
+        "index": "44",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 102645,
+        "anchor": "Articles",
+        "linkAnchor": "Articles"
+      },
+      {
+        "toclevel": 3,
+        "level": "4",
+        "line": "Autres",
+        "number": "10.1.4",
+        "index": "45",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 103228,
+        "anchor": "Autres",
+        "linkAnchor": "Autres"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Iconographie",
+        "number": "10.2",
+        "index": "46",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 104110,
+        "anchor": "Iconographie",
+        "linkAnchor": "Iconographie"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Articles connexes",
+        "number": "10.3",
+        "index": "47",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 104645,
+        "anchor": "Articles_connexes",
+        "linkAnchor": "Articles_connexes"
+      },
+      {
+        "toclevel": 2,
+        "level": "3",
+        "line": "Liens externes",
+        "number": "10.4",
+        "index": "48",
+        "fromtitle": "Albert_Einstein",
+        "byteoffset": 105211,
+        "anchor": "Liens_externes",
+        "linkAnchor": "Liens_externes"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Introduction",
+      "level": 0,
+      "content": "« Einstein » redirige ici. Pour les autres significations, voir Einstein (homonymie).\n\nAlbert Einstein (prononcé en allemand [ˈalbɐt ˈaɪnʃtaɪn] ) né le 14 mars 1879 à Ulm (Wurtemberg, Empire allemand) et mort le 18 avril 1955 à Princeton (New Jersey, États-Unis), est un physicien théoricien helvético-américain d'origine allemande.\n\nIl publie sa théorie de la relativité restreinte en 1905 et sa théorie de la gravitation, dite relativité générale, en 1915. Il a aussi largement contribué au développement de la mécanique quantique et de la cosmologie, et a reçu en 1921 le prix Nobel de physique pour son explication de l’effet photoélectrique. Il est notamment connu du grand public comme l'auteur de l’équation E = mc2, qui établit une équivalence entre la masse et l’énergie d’un système.\n\nLa renommée d'Einstein, considéré comme l'un des plus grands scientifiques de l'histoire, dépasse largement le milieu scientifique. Son nom et sa personne sont, dans la culture populaire, directement associés aux notions d'intelligence, de savoir et de génie.\n\nIl a été marié avec la mathématicienne Mileva Marić, puis avec sa cousine Elsa Einstein.\n\n"
+    },
+    {
+      "title": "Jeunesse",
+      "level": 3,
+      "content": "Son père, Hermann Einstein, né le 30 août 1847 à Buchau, est mort le 10 octobre 1902 à Milan. Il est entrepreneur (Elektrotechnische Fabrik J. Einstein & Cie) et épouse Pauline Koch (1858-1920) le 8 août 1876. Trois ans plus tard, le 14 mars 1879, Albert Einstein, leur premier enfant, naît dans leur appartement à Ulm en Allemagne. L'année suivante, la famille s'installe à Munich.\n\nLes Einstein sont des juifs non pratiquants, mais un parent enseigne à Albert les éléments du judaïsme. Vers onze ans il a une phase très religieuse : il ne mange pas de porc et compose des chants religieux qu'il chante sur le chemin de l'école. « Mais je lus mes premiers livres de science, et j'en terminai avec la foi d'Abraham. » Il ne fait pas sa bar-mitsvah et n'apprend pas l'hébreu.\n\nL'intérêt d'Albert pour la science est éveillé par une boussole alors qu'il est âgé de cinq ans : l'existence d'une action à distance lui paraît « miraculeuse » et l'étonne très vivement. À douze ans, un petit livre sur la géométrie euclidienne du plan, qu'il nommera plus tard le « livre sacré de la géométrie », le marque fortement (« la clarté et la certitude des démonstrations eurent sur moi un effet indescriptible »). Son oncle Jakob, ingénieur associé dans l'entreprise de matériel électrique de son père, lui pose des problèmes mathématiques. Max Talmey, un étudiant en médecine qui dîne souvent chez les Einstein, lui offre des livres de science et plus tard des œuvres de Kant, et ils ont souvent de longues discussions.\n\nDe douze à seize ans, il apprend en autodidacte le calcul différentiel et intégral.\n\n• Albert Einstein enfant.\n• Abraham et Helen Einstein, ses grands-parents.\n• Pauline Kock, sa mère.\n• Hermann Einstein, son père, v. 1890.\n• Albert et sa sœur Maria (Maja).\n• Albert Einstein en 1894.\n\n"
+    },
+    {
+      "title": "Formation",
+      "level": 3,
+      "content": "Einstein présente un parcours scolaire relativement atypique par rapport aux éminents scientifiques qui furent plus tard ses contemporains. Très tôt, le jeune homme s'insurge contre le pouvoir arbitraire exercé par les enseignants, il est donc souvent dépeint par ces derniers comme un mauvais élément, très étourdi. Il éprouve jusque tard dans son enfance des difficultés pour s'exprimer.\n\nIl commence sa scolarité au Luitpold Gymnasium de Munich mais il est renvoyé à l’âge de 15 ans, (son professeur de grec jugeant sa présence incompatible avec la stricte discipline y régnant à l’époque). Il a d’excellents résultats en mathématiques.\n\nEn 1895, il rejoint ses parents qui s'installent à Pavie, en Italie, au Palazzo Cornazzani, un édifice médiéval où vécurent à différentes époques Ugo Foscolo, Contardo Ferrini et Ada Negri.\n\nPar répulsion du militarisme de sa patrie d'origine, il demande l'abandon de sa nationalité allemande, ce qui est accepté en janvier 1896 et le rend apatride. Dans sa demande, il déclare n'adhérer à aucune confession religieuse, signant ainsi sa rupture officielle avec la religion juive.\n\nÀ 16 ans, il décide d'intégrer l'École polytechnique fédérale de Zurich (EPFZ) — à laquelle on peut alors accéder sans avoir de baccalauréat. Il rate cependant l'examen d'entrée. Les examinateurs, ayant découvert son potentiel, l'incitent à se présenter une deuxième fois. Il entre à l’École cantonale d'Aarau en Suisse, et y passe une année pour mieux se préparer au prochain examen. Il y trouve une atmosphère plus ouverte et favorable à son apprentissage, les étudiants étant davantage incités à penser par eux-mêmes qu'à réciter des leçons apprises. En 1896, il réussit l'examen et intègre, à l'automne, l'EPFZ, où il se lie d’amitié avec le mathématicien Marcel Grossmann, qui l’aidera plus tard en géométrie non euclidienne. Il y rencontre aussi Mileva Marić, sa première épouse, une des toutes premières étudiantes de l'école, qui travaillera également avec lui sur la théorie de la relativité et mènera ses propres recherches. Il obtient de justesse son diplôme en 1900, s'avouant, dans son autobiographie, « incapable de suivre les cours, de prendre des notes et de les travailler de façon scolaire ».\n\nAu cours de cette période, il approfondit ses connaissances en autodidacte par la lecture de livres de référence comme ceux de Kirchhoff, de Hertz, de Helmholtz et de Maxwell. Son ami Michele Besso l’initie aux idées de la Mécanique d'Ernst Mach. Il obtient la nationalité suisse en 1901, qu'il gardera jusqu'à la fin de sa vie. Selon plusieurs biographies, cette période de 1900 à 1902 est marquée par la précarité de sa situation : il postule à de nombreux emplois sans être accepté. Sa misère préoccupe son père, qui tente en vain de lui trouver un poste. Albert se résigne alors à s’éloigner du milieu universitaire pour trouver un emploi dans l’administration.\n\n"
+    },
+    {
+      "title": "Carrière",
+      "level": 3,
+      "content": "En 1901, il publie son premier article scientifique dans les Annalen der Physik, article consacré à ses recherches sur la capillarité.\n\nÀ la fin de l’année 1902, naît le premier de ses enfants, Lieserl. Son existence a longtemps été ignorée des historiens, et il n’existe aucune information connue sur son devenir, bien qu'une biographe conclut que l'enfant, handicapée mentale, est morte en bas âge. Albert et Mileva se marient en 1903, son père lui ayant finalement donné sa permission sur son lit de mort. En 1904, le couple donne naissance à Hans-Albert, puis à Eduard en 1910.\n\nEn juin 1902, Albert trouve, grâce à Marcel Grossmann, un emploi à l’Office des Brevets de Berne, ce qui lui permet de vivre correctement tout en poursuivant ses travaux. Il emménage entre 1903 et 1905 dans l'actuelle maison d'Einstein, 49 Kramgasse. Durant cette période, il fonde l’Académie Olympia avec Conrad Habicht et Maurice Solovine, qui traduira plus tard ses œuvres en français. Ce cercle de discussion se réunit à la maison d'Einstein, et organise des balades en montagne. Einstein partage le résultat de ses travaux avec Conrad Habicht et lui envoie les articles qu’il publie pendant l’année 1905 (souvent appelée son annus mirabilis) concernant les fondements de la relativité restreinte, l’hypothèse des quanta de lumière et la théorie du mouvement brownien, qui ouvrent de nouvelles voies dans la recherche en physique nucléaire, mécanique céleste, etc. L’article portant sur le mouvement brownien prend appui sur des travaux qu’Einstein développe plus tard, et qui aboutissent à sa thèse, intitulée Eine neue Bestimmung der Moleküldimensionen (« Une nouvelle détermination des dimensions moléculaires », en allemand), et à son diplôme de doctorat le 15 janvier 1906.\n\nEn 1909, Albert Einstein est reconnu par ses pairs, en particulier Planck et Nernst, qui souhaitent l’inviter à l’université de Berlin. Le 9 juillet 1909, il est distingué docteur honoris causa par l’université de Genève, il devient la même année professeur associé à l'université de Zurich. En 1911, il devient professeur à l'université allemande de Prague (alors ville de l'Empire austro-hongrois), et il est invité au premier congrès Solvay, en Belgique, qui rassemble les scientifiques les plus connus. Il y rencontre entre autres Marie Curie, Max Planck et Paul Langevin. Revenu à Zurich en 1912, il devient en 1913 membre de l’Académie des sciences de Prusse.\n\nEn 1914, il déménage en Allemagne et habite à Berlin de nombreuses années, il devient membre de l'Académie royale des sciences et des lettres de Berlin. Son poste à Berlin lui permet de se consacrer tout entier à ses travaux de recherche. Mileva et Albert se séparent et elle rentre en Suisse avec leurs enfants (leur divorce sera prononcé en 1919, année au cours de laquelle il épousera sa cousine Elsa). À l’ouverture du conflit de la Première Guerre mondiale, il déclare ses opinions pacifistes. La ville de Berlin s’était engagée à lui fournir une maison, mais Albert Einstein obtient finalement un terrain sur lequel il fait construire une maison à ses frais. Situé à Caputh, près du lac de Havelsee, l’endroit est calme et lui permet de faire fréquemment de la voile.\n\nEn 1916, il publie un livre présentant sa théorie de la gravitation, connue aujourd’hui sous le nom de relativité générale. En 1919, Arthur Eddington réalise la mesure de la déviation que la lumière d’une étoile subit à proximité du Soleil, cette déviation étant une des prévisions découlant de cette théorie. Cet événement est médiatisé, et Einstein entreprend à partir de 1920 de nombreux voyages à travers le monde. En novembre 1922, il reçoit le prix Nobel de physique 1921, qui n'avait pas été attribué, « pour ses contributions à la physique théorique et, spécialement, pour sa découverte de la loi de l'effet photo-électrique ». Comme il est loin de la Suède en 1922, il reçoit son prix et prononce sa conférence Nobel à Göteborg le 11 juillet 1923. En 1925, il est lauréat de la médaille Copley, et en 1928 il est nommé président de la Ligue allemande des droits de l'homme. Il participe en 1928 au premier cours universitaire de Davos, avec de nombreux autres intellectuels français et allemands. En 1935, il devient lauréat de la médaille Franklin.\n\nLa situation s’assombrit en Allemagne dans les années 1920, et il subit des attaques visant ses origines juives et ses opinions pacifistes. Sa sécurité est menacée par la montée des mouvements nationalistes, dont celle du parti nazi. Peu après l’arrivée d’Hitler au pouvoir, au début de 1933, il apprend que sa maison de Caputh a été pillée par les nazis, et il décide de ne plus revenir en Allemagne. Après un court séjour sur la côte belge puis en Angleterre, il s’installe aux États-Unis, sur invitation d'Abraham Flexner, le fondateur et directeur de l’Institute for Advanced Study de Princeton où il commence alors à travailler. Ses recherches visent à élaborer une théorie globale des champs, expliquant les quatre interactions élémentaires : la gravitation, l'interaction électromagnétique, l'interaction faible et l'interaction forte. Cette théorie est aujourd'hui au cœur de la recherche fondamentale.\n\nLe 2 août 1939, sous la pression d'Eugene Wigner et de Leó Szilárd, physiciens venus d'Allemagne, il rédige une lettre à Roosevelt, qui contribue à enclencher le projet Manhattan — signature qu'il regrettera toute sa vie.\n\nSon fils Eduard, atteint d’une possible schizophrénie, passe la majeure partie de sa vie dans une clinique en Suisse, et son autre fils Hans-Albert devient docteur en sciences techniques, ingénieur et professeur de génie hydraulique en Californie.\n\n"
+    },
+    {
+      "title": "Mort",
+      "level": 3,
+      "content": "Einstein meurt le 18 avril 1955 d’une rupture d'anévrisme de l'aorte abdominale. Ses cendres sont éparpillées dans un lieu tenu secret, conformément à ses dernières volontés. Mais, en dépit de son testament, son cerveau et ses yeux ont été prélevés, le premier par le médecin légiste ayant effectué l'autopsie, les seconds par son ophtalmologiste. Une étude réalisée en 2013 sur son cerveau révèle tout au plus une hyperconnexion entre les deux hémisphères, ce qui selon certains serait le signe d'une grande intelligence.\n\nJuste avant de mourir, le physicien prononça quelques mots en langue allemande, mais l’infirmière de l’hôpital de Princeton qui était de garde ne parlait pas cette langue et ne put donc ni les retranscrire, ni les répéter.\n\n"
+    },
+    {
+      "title": "Année 1905",
+      "level": 3,
+      "content": "L'année 1905 est une année exceptionnellement fructueuse pour Einstein (elle est souvent désignée par l'expression latine annus mirabilis), quatre de ses articles étant publiés dans la revue Annalen der Physik :\n\n• le premier article, publié en mars, expose un point de vue révolutionnaire sur la nature corpusculaire de la lumière, par l’étude de l’effet photoélectrique. Einstein l’intitule : Sur un point de vue heuristique concernant la production et la transformation de la lumière. Il y relate ses recherches sur l’origine des émissions de particules, en se basant sur les travaux de Planck qui avait, en 1900, établi une formule d’un rayonnement quantifié, c’est-à-dire discontinu. Planck avait été contraint d’aborder le rayonnement lumineux émis par un corps chaud d’une manière qui le déconcertait : pour mettre en adéquation sa formule et les résultats expérimentaux, il lui avait fallu supposer que le courant de particules se divisait en blocs d’énergie, qu’il appela quanta. Bien qu’il pensât que ces quanta n’avaient pas de véritable existence, sa théorie semblait prometteuse et plusieurs physiciens y travaillèrent. Einstein réinvestit les résultats de Planck pour étudier l’effet photoélectrique, et il conclut en énonçant que la lumière se comportait à la fois comme une onde et un flux de particules. L’effet photoélectrique a donc fourni une confirmation simple de l’hypothèse des quanta de Max Planck. Ce résultat sera récompensé par le prix Nobel de physique en 1921. En 1920, les quanta furent appelés les photons ;\n• deux mois plus tard, en mai, Einstein fait publier un deuxième article sur le mouvement brownien. Selon lui, les molécules tireraient leur énergie cinétique de la chaleur. Cet article fournit une preuve théorique (vérifiée expérimentalement par Jean Perrin en 1912) de l’existence des atomes et des molécules.\n• le troisième article est encore plus important, car il représente la rupture intuitive d’Einstein avec la physique newtonienne. Dans celui-ci, Sur l’électrodynamique des corps en mouvement, le physicien s’attaque au postulat d’un espace et d’un temps absolus, tels que définis par la mécanique de Newton, et à l’existence de l’éther, milieu interstellaire inerte qui devait soutenir la lumière comme l’eau ou l’air soutiennent les ondes sonores dans leurs déplacements. Cet article, publié en juin, amène à deux conclusions : l’éther n’existe pas, et le temps et l’espace sont relatifs. Le nouvel absolu qu’Einstein édifie est détaché de la valeur quantitative de ces deux notions que sont l’espace et le temps. Elles restent cependant liées par la conservation, à travers différents référentiels d’étude, de l’intervalle d’espace-temps entre événements, notion similaire à la distance entre points de l’espace. Les conséquences de cette vision révolutionnaire de la physique, qui découle de l’idée qu’Einstein avait de la manière dont les lois physiques devaient contraindre l’univers, ont bousculé tant la physique théorique que ses applications pratiques. L’apport exact d’Einstein par rapport à Henri Poincaré et quelques autres physiciens est aujourd’hui assez disputé (voir Controverse sur la paternité de la relativité) ;\n• le dernier article, publié en septembre, donne au titre L’inertie d’un corps dépend-elle de son contenu en énergie ? une réponse célèbre : la formule d’équivalence masse-énergie, E=mc2. C’est un résultat de la toute nouvelle relativité restreinte, dont découle un vaste champ d’études et d’applications : physique nucléaire, mécanique céleste et énergie nucléaire, par exemple.\n\n"
+    },
+    {
+      "title": "Années de reconnaissance (1910-1935)",
+      "level": 3,
+      "content": "• Albert Einstein et Chaim Weizmann, 1921.\n• Paul Langevin et Albert Einstein, 1923.\n• Einstein et Marie Curie, 1929.\n• Albert Einstein et Niels Bohr au congrès Solvay de 1930.\n• Einstein et Charlie Chaplin, 1931.\n• Albert Einstein et Édouard Herriot, reçus docteurs honoris causa de l'université de Glasgow, vers 1933.\n\nSon ancien condisciple Marcel Grossmann l’aide dans ses travaux en lui apportant ses connaissances en géométrie différentielle : ils publient un article sur les tenseurs de Ricci et de Riemann-Christoffel en 1913. En octobre 1914, Einstein publie un article sur la géométrie différentielle, et en juin 1915, il donne des conférences à l’université Göttingen devant Hilbert et Klein.\n\nLe 25 novembre 1915, il soumet son manuscrit de la théorie de la relativité générale à la section de mathématique et de physique de l'Académie royale des sciences de Prusse, qui la publie le 2 décembre.\n\nLes « équations du champ » sont la clé de voûte de cette théorie. Elles décrivent le comportement du champ de gravitation (la métrique de l’espace-temps) en fonction du contenu énergétique et matériel. La théorie de la relativité ainsi que ses ouvrages de 1905 et 1916 forment la base de la physique moderne.\n\nLa théorie de la relativité générale publiée, Einstein recommence à travailler sur la physique des quanta et introduit en 1916 la notion d'émission stimulée qui lui permet de retrouver la loi de Planck à partir d'hypothèses purement quantiques sur la façon dont les quanta de lumière (photons) sont absorbés et émis par les atomes. Cette idée fructueuse est à la base du développement du maser et du laser. La même année, Einstein montre qu'il convient d'associer une quantité de mouvement au quantum de lumière ; cette hypothèse sera validée par l'expérience en 1923 grâce aux travaux d'Arthur Compton sur la diffusion des rayons X.\n\nLa relation d'Einstein avec la physique quantique alors naissante est remarquable : d’un côté, nombre de ses travaux sont à la base du développement de cette nouvelle physique, comme son explication de l’effet photoélectrique ; d’un autre côté, il critiquera beaucoup d’idées et d’interprétations de la mécanique quantique, son non-déterminisme en particulier. Le débat entre le groupe formé par Einstein et Erwin Schrödinger et celui de Niels Bohr et Werner Heisenberg se situait à la frontière de la physique et de la philosophie.\n\nEn 1927, invité au cinquième congrès Solvay, il a de nombreuses conversations avec Niels Bohr à ce sujet. Il dit alors : « Gott würfelt nicht » (« Dieu ne joue pas aux dés ») pour marquer son opposition à l’interprétation probabiliste de la physique quantique, ce à quoi Niels Bohr répondit : « Qui êtes-vous, Albert Einstein, pour dire à Dieu ce qu’il doit faire ? » Le paradoxe EPR qu’il précise en 1935 avec Boris Podolsky et Nathan Rosen à Princeton reste aujourd’hui un exemple important d'une tentative pour questionner les fondements de la mécanique quantique.\n\n"
+    },
+    {
+      "title": "Vérifications",
+      "level": 3,
+      "content": "L'explication de l'avance du périhélie de Mercure fut donnée par Einstein en 1915, à l'aide des équations qu'il venait d'établir ; bien que considérée comme la première confirmation expérimentale de la nouvelle théorie, elle ne correspondait pas à la prévision d'un effet nouveau, c'est pourquoi, pour vérifier la relativité générale, une mesure de la déviation des rayons lumineux aux alentours d’une masse lors d’une éclipse solaire fut envisagée.\n\nLa première expédition est prévue en 1915, mais est rendue impossible par la Première Guerre mondiale. En 1919, Arthur Eddington réalise cette mesure et annonce que les résultats sont conformes à la théorie d’Einstein. Grâce à cette expérience, Einstein devient célèbre du jour au lendemain. Le fait qu'une théorie allemande ait été vérifiée par un Britannique un an après la Première Guerre mondiale, fait office de symbole en faveur de la paix.\n\nIl apparaît bien plus tard qu’en raison du temps nuageux, la marge d’erreur était bien supérieure au phénomène à mesurer. En 1980, les philosophes des sciences John Earman et Clark Glymour affirment qu'Eddington a biaisé la sélection des données qu'il a recueillies ; leur propos est repris en 1993 par Harry Collins et Trevor Pinch. En revanche, l'expérience est validée par le physicien Daniel Kennefick. Celui-ci souligne que l'analyse nuancée d'Earman et Glymour a été instrumentalisée pour répandre l'idée selon laquelle la théorie de la relativité n'a obtenu de succès que par la grâce de la diplomatie (Eddington souhaitant mettre fin à la mise au ban des scientifiques allemands), voire pour répandre la défiance à l'égard des scientifiques. Le physicien Stephen Hawking commente en 1988 dans son ouvrage Une brève histoire du temps que ce genre de faux bon résultat est courant quand on sait à quoi s’attendre. Comme d’autres mesures avaient entre-temps confirmé la déviation de la lumière, la validité de la relativité générale n’en fut pas ébranlée.\n\n"
+    },
+    {
+      "title": "Einstein et la politique",
+      "level": 3,
+      "content": "Les positions politiques prises par Einstein sont marquées par ses opinions socialistes et pacifistes, relativisant ces dernières parfois, par exemple en déconseillant l’objection de conscience à un jeune Européen lui ayant écrit pendant les années 1930, « pour la sauvegarde de son pays et de la civilisation ». Toutefois, il prône régulièrement l'objection de conscience. Par exemple, à propos de la lutte contre les armements et les comportements belliqueux, il écrit :\n\n« Je soutiens que le moyen violent du refus du service militaire reste le meilleur moyen. Il est préconisé par des organisations qui, dans divers pays, aident moralement et matériellement les courageux objecteurs de conscience. »\n\nEn 1913, il est cosignataire d’une pétition pour la paix que trois autres savants allemands acceptent de signer. Einstein éprouve une forte antipathie vis-à-vis des institutions militaires, publiant dès 1934 :\n\n« La pire des institutions grégaires se prénomme l’armée. Je la hais. Si un homme peut éprouver quelque plaisir à défiler en rang aux sons d’une musique, je méprise cet homme… Il ne mérite pas un cerveau humain puisqu’une moelle épinière le satisfait. Nous devrions faire disparaître le plus rapidement possible ce cancer de la civilisation. »\n\nEinstein est lié à de nombreuses causes pacifistes, car il se montre ouvert aux propositions multiples de soutien qu’il reçoit, et accepte souvent de s’engager pour les causes qu’il juge justes.\nEinstein apporte un soutien marqué aux mouvements sionistes. En 1920, il accompagne ainsi le chef de file sioniste Chaim Weizmann aux États-Unis au cours d’une campagne de récolte de fonds. Il se rend également en Palestine mandataire dans le cadre de l’inauguration de l’université hébraïque de Jérusalem à laquelle il lègue plus tard ses archives personnelles. Ses apparitions donnent un prestige politique à la cause sioniste. À la suite d'une invitation à s’établir à Jérusalem, il écrit dans son carnet de voyage que « le cœur dit oui […] mais la raison dit non ». Selon Tom Segev, Einstein apprécie son voyage en Palestine et les honneurs qui lui sont faits. Il marque néanmoins sa désapprobation en voyant des Juifs prier devant le mur des Lamentations ; Einstein commente qu’il s’agit de personnes collées au passé et faisant abstraction du présent. Ben Gourion lui propose en 1952 la présidence de l’État d’Israël, qu’il refuse :\n\n« J'ai passé ma vie à étudier des problèmes objectifs et je manque à la fois de l'aptitude naturelle et de l'expérience nécessaires pour traiter des problèmes humains et exercer des fonctions officielles. »\n\nDe même, il déclara à propos de la politique après cette offre de Ben Gourion :\n\n« Les équations sont plus importantes pour moi que la politique, parce que la politique est lié au présent, mais une équation est quelque chose pour l'éternité. »\n\nIl a une vision clairvoyante de sa situation entre les deux guerres. Il écrit dans une remarque à la fin d'un article écrit pour le Times de Londres :\n\n« Je passe actuellement en Allemagne pour un savant allemand et en Angleterre pour un juif suisse. Supposons que le sort fasse de moi une bête noire, je deviendrai au contraire un juif suisse en Allemagne, et un savant allemand en Angleterre. »\n\nIl reçoit des menaces de mort dès 1922. De violentes attaques ont lieu contre sa théorie de la relativité en Allemagne et en Russie. Philipp Lenard, « chef de la physique aryenne ou allemande » attribue à Friedrich Hasenöhrl la formule E=mc2 pour en faire une création aryenne. Einstein démissionne de l’académie de Prusse en 1933, et il est exclu de celle de Bavière. En mars 1933, en tant que président d'honneur de la Ligue contre l'antisémitisme, il lance un appel aux peuples civilisés de l'univers, tâchant « d'éveiller la conscience de tous les pays qui restent fidèles à l'humanisme et aux libertés politiques » ; dans cet appel il s'élève contre « les actes de force brutale et d'oppression contre tous les gens d'esprit libre et contre les juifs, qui ont lieu en Allemagne ». Cette année-là, Einstein est en voyage à l’étranger, et il choisit de ne pas revenir en Allemagne, où Hitler a pris le pouvoir en janvier. Après un séjour en Belgique, il décline une proposition de la France de l’accueillir comme professeur au Collège de France, et part pour les États-Unis, à Princeton.\n\nLe 2 août 1939, il signe une lettre, rédigée par les physiciens Léo Szilard et Eugène Wigner, destinée à Roosevelt, qui aurait pu contribuer à enclencher le projet Manhattan, ceci étant à l'opposé de l'intention d'origine de la lettre, qui ne se voulait que préventive des risques potentiels que les récentes découvertes scientifiques pourraient causer (celles-ci permettraient en effet la réalisation de « bombes d'un nouveau type et extrêmement puissantes »).\n\nAprès la guerre, Einstein milite pour un désarmement atomique mondial, jusqu’au seuil de sa mort en 1955, où il confesse à Linus Pauling : « J’ai fait une grande erreur dans ma vie, quand j’ai signé cette lettre [de 1939]. »\n\nAprès la Seconde Guerre mondiale, son engagement vis-à-vis des communautés juives et d'Israël est nuancé par ses opinions pacifistes. Il préface le Livre noir, recueil de témoignages sur l’extermination des juifs en Russie par les nazis pendant la guerre. Et en décembre 1948, il cosigne une lettre condamnant le massacre de Deir Yassin commis par des combattants israéliens de l’Irgoun et du Lehi pendant la guerre de Palestine de 1948.\n\nPendant la guerre froide, il s’exprime contre la course aux armements et appelle, par exemple avec Bertrand Russell et Joseph Rotblat, les scientifiques à plus de responsabilités, les gouvernements à un renoncement commun à la prolifération des armes atomiques et à leur utilisation et les peuples à chercher d’autres moyens d’obtenir la paix (création du Comité d’urgence des scientifiques atomistes en 1946, manifeste Russell-Einstein en 1954).\n\nEinstein s’est exprimé sur ses convictions socialistes en 1949, en pleine période du maccarthysme, dans un essai intitulé Pourquoi le Socialisme, publié dans la Monthly Review :\n\n« Je suis convaincu qu’il n’y a qu’un seul moyen d’éliminer ces maux graves, à savoir, l’établissement d’une économie socialiste, accompagnée d’un système d’éducation orienté vers des buts sociaux. Dans une telle économie, les moyens de production appartiendraient à la société elle-même et seraient utilisés d’une façon planifiée. Une économie planifiée, qui adapte la production aux besoins de la société, distribuerait le travail à faire entre tous ceux qui sont capables de travailler et garantirait les moyens d’existence à chaque homme, à chaque femme, à chaque enfant. L’éducation de l’individu devrait favoriser le développement de ses facultés innées et lui inculquer le sens de la responsabilité envers ses semblables, au lieu de la glorification du pouvoir et du succès, comme cela se fait dans la société actuelle. »\n\nIl lui semble que le principe du gouvernement des peuples par eux-mêmes, le fait de travailler pour eux-mêmes, est plus propice à l’épanouissement individuel que celui de l’exploitation du grand nombre par une minorité. Mais il est déçu par ce qu’il peut apprendre de l’Union soviétique et il considère que les peuples doivent s’engager d’abord dans le pacifisme afin de mettre en place des conditions favorables à une évolution vers le socialisme. Sa correspondance révèle qu’il voit un rapprochement entre le maccarthysme et les événements des années 1930 en Allemagne. Il écrit au juge chargé de l’affaire Rosenberg pour demander leur grâce, et il aide de nombreuses personnes qui souhaitent immigrer aux États-Unis. Contacté par William Frauenglass, un professeur d’anglais de lycée suspecté de sympathies communistes, il rédige un texte dénonçant ouvertement le maccarthysme et encourageant les intellectuels à résister à ce qu’il qualifie de « mal ». Le FBI ouvre un dossier sur lui, disponible aujourd’hui sur son site internet. Joseph McCarthy attaque Einstein au Congrès en le traitant d’« ennemi de l’Amérique ». Sa secrétaire, Helen Dukas, est soupçonnée d’espionnage au service de l’URSS. Les médias américains se montrent virulents dans leur traitement de l’affaire et seules quelques personnalités, comme Bertrand Russell, prennent sa défense. L’affaire est classée en 1954, aucune preuve concluante n’ayant été apportée pour étayer ces accusations.\n\n"
+    },
+    {
+      "title": "Einstein et la lutte contre les discriminations raciales",
+      "level": 3,
+      "content": "À Cassel (Allemagne), en 1923, se tient sous la présidence d'honneur d'Albert Einstein le IIIe congrès de l'Association mondiale anationale (SAT), organisation à caractère socio-culturel et à vocation émancipatrice fondée à Prague en 1921 et dont la langue de travail neutre est l'espéranto. Quarante-deux savants de l'Académie des sciences émettent la même année un vœu en faveur de son enseignement en tant que « chef-d'œuvre de logique et de simplicité ».\n\nAprès avoir fui l'Allemagne nazie, Einstein découvre, pendant son exil américain, l'ampleur de la discrimination raciale aux États-Unis. Vivant au milieu de la communauté noire de Princeton, il observe de près la ségrégation et s'investit au quotidien pour que les enfants noirs aient accès à la connaissance.\n\nRefusant d'intervenir dans les universités qui pratiquent la ségrégation raciale, Einstein accepte pourtant de donner une conférence à l'université Lincoln en 1946 où il déclare : « Je suis de passage dans cet établissement au nom d’une cause qui en vaut la peine. En effet, les gens de couleur continuent d'être séparés des Blancs aux États-Unis. Cette séparation ne résulte pas d’une maladie des gens de couleur mais d’une maladie des Blancs. Il est impensable que je me taise à ce sujet. »\n\nIl se lie d'amitié avec le chanteur noir Paul Robeson et devient, à ses côtés, un militant des droits civiques et de la lutte contre le racisme. Avec Robeson, Einstein milite aussi en faveur du soutien des États-Unis aux républicains espagnols qui combattent le franquisme ; tous deux s'attirent rapidement les foudres et la haine du directeur du FBI, J. Edgar Hoover, qui les considère comme des « ennemis d'État ».\n\nAlors qu'il est harcelé par le FBI pour ses positions politiques, l'intellectuel noir et fondateur de la NAACP (Association pour la défense et la promotion des Noirs), W. E. B. Du Bois, sollicite le soutien d'Einstein pour sa défense devant la cour fédérale qui s'apprête à le condamner pour haute trahison. Einstein se porte aussitôt garant pour Du Bois, ce qui embarrasse les juges et empêche une condamnation arbitraire de ce dernier.\n\nCet aspect de sa vie est resté largement méconnu et ignoré par la plupart de ses biographes.\n\n"
+    },
+    {
+      "title": "Vie sociale",
+      "level": 3,
+      "content": "Bien qu'Einstein ait rencontré un grand nombre de personnalités majeures de son époque, dans les domaines scientifique, politique et artistique, laissant une correspondance très riche, il se décrivait lui-même comme un véritable solitaire : « Je me sens lié réellement à l'État, à la patrie, à mes amis, à ma famille au sens complet du terme ; mais mon cœur ressent face à ces liens un curieux sentiment d'étrangeté, d'éloignement, et l'âge accentue encore cette distance ».\n\nParmi ses relations célèbres, on compte une amitié avec la reine Élisabeth de Belgique, avec qui il joua du violon, Arnold Berliner dont il témoigne de l'affection lors de son 70e anniversaire, George Bernard Shaw au sujet duquel il écrit « on trouve rarement des hommes assez indépendants pour s'apercevoir des faiblesses et des sottises de leurs contemporains, sans en être affectés eux-mêmes » ou le mathématicien et philosophe Bertrand Russell.\n\nModeste et pensant quant à lui que « Chacun doit être respecté dans sa personne et nul ne doit être idolâtré », il ironisait au sujet de sa célébrité et de ses effets : « Cela pourrait bien provenir du désir irréalisable pour beaucoup, de comprendre quelques idées que j’ai trouvées, dans une lutte sans relâche, avec mes faibles forces ».\n\n"
+    },
+    {
+      "title": "Vie familiale",
+      "level": 3,
+      "content": "Sa première épouse, Mileva Maric est atteinte de coccygodynie, ce qui la rend boiteuse. C’est aussi une jeune physicienne brillante, élève du Polytechnicum. Elle se trouve enceinte alors qu’ils ne sont pas encore mariés, et elle accouche en janvier 1902 chez ses parents, en Serbie, d’une fille prénommée Lieserl (Élisabeth ?), qu'Albert l'oblige probablement à abandonner et dont on perd la trace, bien qu'une biographe conclut que l'enfant, handicapée mentale, a été élevée par sa mère Mileva et les parents de cette dernière, et qu'elle est morte en bas âge de la scarlatine. Einstein se montra très dur avec son épouse, ainsi qu'avec sa compagne suivante, Elsa Einstein, doublement sa cousine.\n\nElsa et Albert commencent leur relation à Pâques 1912.\n\nAprès l'abandon de sa première épouse, et un divorce en 1919, au cours duquel il la dénigre auprès de ses amis et de ses avocats, en regrettant d'avoir accepté de concevoir des enfants « avec une personne moralement et physiquement inférieure… », Einstein épouse sa double cousine, le 2 juin 1919.\n\nIl voit peu son fils Hans-Albert, né en 1904, qui, à l’âge adulte, travaille en Californie.\n\nLa santé mentale d'Eduard, son autre fils, surdoué mais sensible, né en 1910, se détériore brutalement alors qu’il est âgé de vingt ans et diagnostiqué schizophrène, et il doit être interné une première fois en 1930 à la clinique psychiatrique universitaire de Zurich. Mileva supporte seule la maladie de son fils pendant presque trente ans jusqu’à sa mort en 1948, en donnant des cours de mathématiques et de piano. Avant de s'exiler, Albert rend une dernière visite à son fils en 1933 dans cette clinique où il meurt en 1965. D’abord critique envers la psychanalyse (« Il n'est peut-être pas toujours bon de fouiller dans l'inconscient. Croyez-vous que connaître le mouvement de tous les muscles qui composent nos jambes nous aiderait à marcher ? »), il s'oppose au désir de son fils Eduard d'entreprendre des études pour devenir psychiatre ou psychanalyste, puis refuse que celui-ci suive un nouveau traitement psychanalytique[réf. nécessaire]. En 1933, il choisit cependant Sigmund Freud pour publier un échange de lettres intitulé Pourquoi la guerre ?.\n\n"
+    },
+    {
+      "title": "Einstein et la religion",
+      "level": 3,
+      "content": "Einstein écrit plusieurs textes traitant des relations entre science et religion. Dans son article paru en 1930, Einstein distingue trois formes de religion :\n\n• la première est due à la crainte et à une incompréhension de la causalité des phénomènes naturels, d’où l'invention d’êtres surnaturels ;\n• la deuxième est sociale et morale ;\n• la troisième, qu’Einstein appelle « religiosité cosmique », est une contemplation de la structure de l'Univers. Elle est compatible avec la science et n'est associée à aucun dogme ni croyance. Einstein déclare être religieux, mais seulement dans ce troisième sens qu’il voit dans le mot religion.\n\nLorsque, en 1929, le rabbin (en) Herbert S. Goldstein lui demande « Croyez-vous en Dieu ? », Einstein répond : « Je crois au Dieu de Spinoza qui se révèle lui-même dans l’ordre harmonieux de ce qui existe, et non en un Dieu qui se soucie du destin et des actions des êtres humains ».\n\nEinstein se réclame également du panthéisme de Spinoza dans son ouvrage Comment je vois le monde. Il définit le sentiment religieux du scientifique comme la croyance en l'intelligibilité du monde, et en une « raison supérieure » qui se dévoile dans « le monde de l'expérience ». Selon lui, les religions traditionnelles relèvent de l'histoire et de la psychologie.\n\nEinstein a souvent utilisé le mot Dieu, comme dans ses célèbres formules « Dieu est subtil, mais pas malveillant » ou « Dieu ne joue pas aux dés », cependant le sens qu’il donnait à ce mot fait l’objet de diverses interprétations. Une partie du clergé a considéré que les vues d’Einstein étaient compatibles avec la foi. À l’inverse, le Vatican dénonce alors « un authentique athéisme même s'il est dissimulé derrière un panthéisme cosmique ». Si Einstein rejette les croyances traditionnelles, il se distingue personnellement des athées et répète qu’il est « un non-croyant profondément religieux ».\n\nUne lettre manuscrite écrite en allemand un an avant sa mort, et adressée au philosophe Eric Gutkind, a été vendue sur eBay en octobre 2012 pour la somme de 3 000 100 $US. Einstein y écrivait :\n\n« Le mot Dieu n’est pour moi rien de plus que l’expression et le produit des faiblesses humaines, la Bible un recueil de légendes, certes honorables mais primitives qui sont néanmoins assez puériles. Aucune interprétation, aussi subtile soit-elle, ne peut selon moi changer cela. »\n\nEinstein répondra d’ailleurs à un journaliste lui demandant s’il croit en Dieu : « Définissez-moi d’abord ce que vous entendez par Dieu, et je vous dirai si j’y crois ».\n\nUn militant de l’athéisme comme Richard Dawkins considère également que la position d’Einstein était seulement de l’athéisme poétiquement embelli. Lors de la campagne d’affichage de slogans en faveur de l’athéisme sur les bus de Londres en 2008 (soutenue par Dawkins), une citation d’Einstein fut utilisée. Cela provoqua des protestations, cette utilisation ayant tendance à assimiler Einstein à un athée.\n\nDans ses mémoires, le diplomate Harry Kessler mentionne le fait d'avoir assisté à un échange entre l'une de ses connaissances et Einstein. À la question : « Professeur, est-ce vrai que vous êtes profondément religieux ? », Albert Einstein aurait répondu :\n\n« Certainement, ça dépend des points de vue. Quand j'essaie de pénétrer avec nos moyens limités les secrets de la nature, on découvre derrière tous les rapports qu'on peut connaître quelque chose de très subtil, d'insaisissable, d'inexplicable. Ma religion, c'est le profond respect de ce qu'il y a au-delà des domaines que nous pouvons explorer. C'est ainsi en effet que je suis croyant. »\n\nEn 1929 le Saturday Evening Post publie une interview d'Einstein par George Sylvester Viereck. Interrogé sur la personne de Jésus-Christ, Albert Einstein qualifie le Jésus de l'écrivain Emil Ludwig de peu profond, ajoutant que personne ne peut exprimer le christianisme avec un bon mot. Il accepte en revanche sans hésitation l'existence du Jésus historique. Il déclare d'ailleurs, concernant les Évangiles, que personne ne peut les lire « sans ressentir la présence réelle de Jésus. Sa personnalité résonne dans chaque mot. Aucun mythe n'est rempli d'une telle vie… ». Il déclare quelques lignes plus loin : « Aucun homme ne peut nier le fait que Jésus ait existé ou que ses paroles soient magnifiques. Bien que certaines aient été dites auparavant, personne ne les a exprimées si divinement ».\n\nPlus tard, interrogé par Denis Brian pour sa biographie Einstein : a life sur l'authenticité de ces phrases, Einstein a répondu : « Oui, c'est ce que je crois ».\n\n"
+    },
+    {
+      "title": "Einstein et la philosophie",
+      "level": 3,
+      "content": "Albert Einstein a lu les grandes œuvres de philosophie, notamment celle d'Ernst Mach, qui eut une influence philosophique dans sa jeunesse, amenant le physicien à réfuter la conception mécaniste qui est à la base de l'acceptation de la mécanique classique. Albert Einstein marque son intérêt pour la vision de l’humanité que propose Friedrich Nietzsche[réf. nécessaire], et certaines idées présentes dans les réflexions de Spinoza. Il propose une nouvelle vision du monde moderne par ses travaux scientifiques comme par ses ouvrages non scientifiques. Ainsi, dans son ouvrage Comment je vois le monde publié en 1934, un an après son installation aux États-Unis, Albert Einstein présente sa vision de l’humanité, et pose la question de la place de la science vis-à-vis de l’humanité.\n\nEn tout état de cause, les travaux d'Einstein ont fait abandonner en philosophie l'idée d'un temps absolu dans lequel baignerait un espace qui en serait séparé. Cette position novatrice avait en son temps amené Bergson à le rencontrer.\n\n"
+    },
+    {
+      "title": "Einstein et le judaïsme",
+      "level": 3,
+      "content": "Albert Einstein s'intéresse aux questions du sionisme et de l'antisémitisme durant l'entre-deux-guerres, surtout entre 1919 et 1930, période pendant laquelle Einstein a produit de nombreux écrits attestant de ses positions sur ces questions.\n\nDurant l'entre-deux-guerres, il se rend en Palestine pour participer à la création de l'université hébraïque de Jérusalem ; il en sera gouverneur non-résident jusqu'à sa mort en 1955 et léguera tous ses écrits et son patrimoine intellectuel à cette université.\n\n"
+    },
+    {
+      "title": "Einstein et les mathématiques",
+      "level": 3,
+      "content": "Albert Einstein étudia les mathématiques auprès de professeurs comme Adolf Hurwitz ou Hermann Minkowski, mais reconnaît dans ses Documents autobiographiques (Œuvres choisies) que son « intuition dans le domaine des mathématiques n'était pas assez forte pour distinguer avec sûreté ce qui est essentiel et fondamental du reste. (…) Mon intérêt pour la connaissance de la nature était réellement plus fort ; et du temps de mes études, il ne m'était pas évident que l'accès à une connaissance plus approfondie des principes de la physique passe obligatoirement par les méthodes mathématiques les plus raffinées ».\n\nD'ailleurs, Albert Einstein, en 1921, lors de la conférence berlinoise intitulée La géométrie et l'expérience (conférence considérée comme le texte épistémologique le plus important d'Einstein, selon l'étude de Michel Paty), déclara des propos nuançant la place centrale accordée à la géométrie euclidienne :\n\n« Pour autant que les propositions de la mathématique se rapportent à la réalité, elles ne sont pas certaines, et pour autant qu'elles sont certaines, elles ne se rapportent pas à la réalité. »\n\nCette prise de distance très significative de Einstein par rapport aux mathématiques, trouve sa description dans un ouvrage de 1917, La Théorie de la relativité restreinte et généralisée mise à la portée de tous : la configuration géométrique/mathématique du monde devient elle-même quelque chose de relatif, dépendant de la distribution des masses et de leur vitesse.\n\n"
+    },
+    {
+      "title": "Einstein et l'astrologie",
+      "level": 3,
+      "content": "Contrairement à la citation qui lui est attachée par de nombreuses publications, en particulier celle de l’astrologue Élizabeth Teissier, Einstein ne croyait pas en l'astrologie.\n\nLa citation apocryphe qui lui est attribuée est : « L’astrologie est une science en soi, illuminatrice. J’ai beaucoup appris grâce à elle et je lui dois beaucoup. Les connaissances géophysiques mettent en relief le pouvoir des étoiles et des planètes sur le destin terrestre. À son tour, en un certain sens, l’astrologie le renforce. C’est pourquoi c’est une espèce d’élixir de vie pour l’humanité ». Ce faux a pour origine le Huters astrologischer Kalender de 1960, publié en 1959. La phrase a donc été forgée environ cinq ans après la mort d’Einstein.\n\nSon opinion négative sur l’astrologie est exprimée dans une introduction écrite en 1951 pour l’ouvrage de Carola Baumgardt. Einstein rappelle que Kepler avait su accepter l’idée que l’expérience seule pouvait décider de la validité d’une théorie mathématique, aussi belle soit-elle. Il cite alors l’astrologie comme illustration, dans la pensée képlérienne, d’un reste de manière de penser animiste et téléologiquement orientée omniprésente dans les recherches « scientifiques » de l’époque.\n\n"
+    },
+    {
+      "title": "Einstein et le végétarisme",
+      "level": 3,
+      "content": "Albert Einstein soutient la cause végétarienne. Il considère le végétarisme comme un idéal sans pourtant le pratiquer lui-même malgré quelques problèmes de conscience. Ses arguments se basent principalement sur des raisons de santé, mais il croit également à l’effet bénéfique du régime végétarien sur le tempérament des hommes. Un an avant sa mort, il décide de mettre en pratique ses idées et entame un régime végétarien.\n\nOn peut trouver les raisons philosophiques de ce choix dans son livre Comment je vois le monde, concernant sa judaïté :\n\n« Les points essentiels de la conception juive de la vie paraissent être les suivants : affirmation du droit à la vie pour toutes les créatures ; la vie de l'individu n'a de sens qu'au service de l'embellissement et de l'ennoblissement de l'existence de tous les êtres vivants ; la vie est sacrée, c'est-à-dire qu'elle est la valeur suprême d'où dépendent toutes les évaluations. »\n\n— Albert Einstein.\n\n"
+    },
+    {
+      "title": "Inventions et brevets",
+      "level": 2,
+      "content": "Einstein a aussi inventé des appareils et déposé de nombreux brevets en collaboration avec des amis :\n\n• voltmètre ultrasensible : en 1908, avec Paul Habicht, il met au point un voltmètre capable de mesurer des tensions de l’ordre d’un dix-millième de volt. Ce « multiplicateur de potentiel Einstein-Habicht » est commercialisé à partir de 1912 ;\n• Réfrigérateurs : avec son ancien étudiant et ami Leó Szilárd, il crée plusieurs types de réfrigérateurs, qui n’ont pas été commercialisés :\nréfrigérateur à absorption de gaz,\nun système à diffusion,\nun système électromagnétique. Ce dernier système s’appuie sur une « pompe électromagnétique » qui est encore utilisée pour transporter le sodium dans les réacteurs à neutrons rapides à caloporteur sodium (2005).\n• appareil de correction auditive : un des quarante brevets déposés avec Leó Szilárd.\n\n• réfrigérateur à absorption de gaz,\n• un système à diffusion,\n• un système électromagnétique. Ce dernier système s’appuie sur une « pompe électromagnétique » qui est encore utilisée pour transporter le sodium dans les réacteurs à neutrons rapides à caloporteur sodium (2005).\n\n"
+    },
+    {
+      "title": "Divers",
+      "level": 2,
+      "content": "De nombreuses citations célèbres sont erronément attribuées à Einstein de façon fréquente, par exemple, « Insanity is doing the same thing over and over again and expecting different results » (« La folie consiste à faire la même chose encore et encore et à en attendre des résultats différents »). Le véritable auteur de cette citation est Rita Mae Brown, dans Sudden Death.\n\nIl est fréquemment allégué qu'Einstein était gaucher. Cependant, d'après son biographe Hans-Josef Küpper, Einstein était droitier. Il écrivait de la main droite et l'autopsie de son cerveau confirme une symétrie entre les hémisphères typique des droitiers.\n\nLe Musée Ampère, près de Lyon, expose le seul exemplaire préservé de l'unique travail expérimental conçu, réalisé et publié par Albert Einstein, l'expérience d'Einstein-de Haas.\n\n"
+    },
+    {
+      "title": "Distinctions",
+      "level": 2,
+      "content": "• 1921 : prix Nobel de physique\n• 1929 : médaille Max-Planck\n• 1931 : prix Jules-Janssen\n• 1935 : médaille Franklin\n\n"
+    },
+    {
+      "title": "Articles scientifiques (sélection)",
+      "level": 3,
+      "content": "• Zur Elektrodynamik bewegter Körper, dans Annalen der Physik 17/1905, pages 891-921 ; traduit en français (Gauthier-Villars 1925, réédition Gabay 2005) « Sur l’électrodynamique des corps en mouvement ».\n• Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt, dans Annalen der Physik 17/1905, p. 132-148 ; trad. « Un point de vue heuristique concernant la conception et la transformation de la lumière ».\n• Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?, dans Annalen der Physik 18/1905, pages 639-641 ; traduit en français (Gauthier-Villars 1925) « L’inertie d’un corps dépend-elle de sa capacité d’énergie ? »\n• Zur Quantentheorie der Strahlung, dans Mitteilungen der Physikalischen Gesellschaft Zürich 18/1916 et Physikalische Zeitschrift 18/1917, p. 121 et ss. ; trad. « Sur la théorie quantique du rayonnement ».\n• Über Gravitationswellen, Comptes-rendus de l’Académie des sciences de Prusse (Berlin), 1918, 154 ; trad. « Des ondes gravitationnelles ».\n• (avec Boris Podolsky et Nathan Rosen) Can Quantum Mechanical Description of Physical Reality Be Considered Complete?, dans Physical Review, 15 mai 1935 ; trad. « La description de la réalité physique par la mécanique quantique peut-elle être considérée comme complète ? »\n\nPar ailleurs, une sélection des œuvres d’Einstein, notamment ses articles scientifiques originaux, est disponible en traduction française commentée sous le titre Œuvres choisies aux éditions du Seuil/CNRS éditions, dans la collection Sources du savoir (6 volumes parus depuis 1989).\n\n• Albert Einstein, Françoise Balibar (éd.) et al. (trad. Marie Artaud), Albert Einstein, physique, philosophie, politique, Paris, Éditions du Seuil, coll. « Sciences » (no 150), 2002 (ISBN 978-2-020-39658-5, BNF 38897733). Livre de poche qui contient des « morceaux choisis » issus de la sélection précédente.\n\n"
+    },
+    {
+      "title": "Autres ouvrages",
+      "level": 3,
+      "content": "• Albert Einstein, La théorie de la relativité restreinte et générale (1916, édition française Gauthier-Villars 1956).\n• Albert Einstein, Sigmund Freud et Christophe David (présentation) (trad. Blaise Briod), Pourquoi la guerre [« Warum Krieg? »], Paris, Payot & Rivages, coll. « Petite bibliothèque » (no 488), 2005 (ISBN 978-2-743-61364-8, OCLC 67613759, BNF 39922897).\n• Albert Einstein, Maurice Solovine (trad.) et Régis Hanrion (trad.), Comment je vois le monde, Flammarion, coll. « Champs », 2009 (1re éd. 1934) (ISBN 978-2-08-122904-4)  — Essai politico-philosophique, où Einstein expose ses positions dans différents domaines : social, économique, politique, religieux, culturel et scientifique.\n• Albert Einstein et Léopold Infeld (trad. Maurice Solovine), L'évolution des idées en physique : des premiers concepts aux théories de la relativité et des quanta, Paris, Flammarion, coll. « Champs » (no 119), 1983 (1re éd. 1938), 284 p. (ISBN 978-2-080-81119-6 et 2-080-81119-3, OCLC 417584350). Au format poche, une histoire de la physique, de la mécanique de Newton jusqu’aux théories modernes (relativité, quanta), écrite en 1936 par Einstein et l’un de ses disciples à Princeton, pour financer le séjour de ce dernier.\n• Albert Einstein, Pourquoi le socialisme ?\n\nL’Institut technique de Californie (Caltech) publie, avec l’aide de l’université hébraïque de Jérusalem, l’intégrale des écrits d’Einstein, The Einstein Papers Project. C’est une édition plutôt destinée aux bibliothèques.\n\n"
+    },
+    {
+      "title": "Postérité",
+      "level": 2,
+      "content": "Le physicien et philosophe des sciences Étienne Klein écrit :\n\n« À cette sorte d'intellectuel total qui fut également un héros populaire, on a consacré, de son vivant et après, plus de 2 000 livres, des millions d'articles, des centaines de documentaires. »\n\n"
+    },
+    {
+      "title": "Hommages scientifiques",
+      "level": 3,
+      "content": "• Einstein, unité de mesure égale au nombre d’Avogadro multiplié par l’énergie d’un photon (lumière), c’est donc l'énergie d'une mole de photons.\n• Einsteinium, élément chimique.\n• (2001) Einstein, astéroïde.\n\n"
+    },
+    {
+      "title": "Le cerveau d'Einstein",
+      "level": 3,
+      "content": "En 1978, le journaliste Steven Levy apprend par son employeur, le journal New Jersey Monthly, que le cerveau du savant aurait été conservé. Son employeur lui demande alors de le trouver.\n\nLevy est accompagné par un cadreur durant sa quête et le film est diffusé dans les années 1990 à la télévision en France. Après une longue enquête, il retrouve en effet le cerveau d'Einstein à Wichita (Kansas), chez le pathologiste qui avait procédé à son extraction, le Dr Thomas Harvey. Cette information souleva l’intérêt des médias.\n\nLe Dr Harvey déclara qu’il n’avait rien trouvé de particulier dans la structure physique du cerveau d’Einstein pouvant expliquer son génie. Mais de plus récentes études, parues notamment dans Science et Vie, concluent que le cerveau d’Einstein possédait un nombre élevé d’astrocytes. Selon le premier médecin autorisé à autopsier le cerveau d'Albert Einstein dans les années 1980, Marian Diamond, certaines zones de son cerveau, réservées aux tâches les plus hautes, possédaient une proportion de cellules gliales extrêmement élevée : « tout indique que les cellules gliales occupent une place déterminante dans le développement de l'intelligence ».\n\nDans Mythologies, Roland Barthes écrivit un texte au sujet du cerveau d'Einstein, en restituant les fantasmes que celui-ci anime : comment donc est le cerveau d'un génie ? Il s'avère, et c'est là tout l'intérêt de la situation à en croire la plume de Barthes, que le cerveau dudit « génie » n'avait rien d'atypique.\n\nUne étude approfondie de la structure du cerveau révèle également que la scissure de Sylvius présente une inclinaison particulière, augmentant la taille de la zone du raisonnement abstrait au détriment de la zone du langage, ce qui pourrait expliquer qu’Einstein ait supposément été un parleur tardif.\n\nEn 2014, le neurologue américain Terence Hines publie une étude qui remet en cause la méthodologie et les conclusions qui ont été tirées avec trop d'enthousiasme, faisant suite à d'autres controverses.\n\n"
+    },
+    {
+      "title": "Photographie à la langue tirée",
+      "level": 3,
+      "content": "L'un des portraits les plus célèbres d'Einstein le représente la langue largement tirée.\n\nLe 14 mars 1951, Albert Einstein sort du club de l'université de Princeton où il enseigne et où il vient de célébrer son 72e anniversaire. Ayant déjà souri à plusieurs reprises aux photographes tout au long de la journée, le physicien est fatigué et un ami lui propose de le raccompagner en voiture à son domicile. Alors qu'il est assis à l’arrière de la voiture, Arthur Sasse, photographe de l’agence de presse américaine UPI, interpelle Einstein de manière originale en empruntant un fort accent allemand et lui demande de sourire face à l’objectif. Le prix Nobel décide, de manière facétieuse, yeux grand ouverts et sourire sous sa moustache blanche, de tirer une langue très pointue. Le chef de Sasse ne veut pas publier la photo telle quelle mais décide finalement de le faire après l'avoir coupée car Einstein était assis entre le directeur de l'université, Frank Aydelotte (en), et sa femme Marie Jeanette. Devant le succès planétaire de la photo, Einstein demandera à Sasse neuf tirages du cliché, pour son usage personnel. L’un d’eux, offert à un ami journaliste de télévision en 1953, sera vendu aux enchères en 2009 aux États-Unis pour un peu plus de 74 000 dollars.[réf. souhaitée]. Un cadrage large laissant apparaître les époux Aydelotte s'échange en 2017 pour 125 000 dollars.\n\n"
+    },
+    {
+      "title": "En pied",
+      "level": 4,
+      "content": "• Kannur (Inde).\n• Montevideo (Uruguay).\n• Szeged (Hongrie).\n• Valladolid (Espagne).\n• Los Angeles (États-Unis).\n• Avec Carlos Vaz Ferreira (Uruguay).\n• Le Coq (Belgique).\n• Berne (Suisse).\n\n"
+    },
+    {
+      "title": "Bustes",
+      "level": 4,
+      "content": "• par Jacob Epstein au musée de Birmingham, 1933.\n• par (de) Horst Ankermann.\n• Umsa Middle School, Corée du Sud.\n• par Jacob Epstein au musée Fitzwilliam de Cambridge.\n• à Princeton.\n• par Hermann Hubacher au musée de Zurich, 1957.\n• au Musée des Sciences de Jérusalem.\n• à Ankara (Turquie).\n• par (hu) Vetró András.\n• au quartier Moabit de Berlin.\n• à l'université de Tel Aviv.\n• À Ulm.\n\n"
+    },
+    {
+      "title": "Philatélie",
+      "level": 3,
+      "content": "• Israël, 1956.\n• Etats-Unis, 1966.\n• URSS, 1979.\n• RDA, 1979.\n• Roumanie, 1998.\n• Allemagne, 2005.\n• Roumanie, 2005.\n• Roumanie, 2014.\n\n"
+    },
+    {
+      "title": "Peinture murale",
+      "level": 3,
+      "content": "Une peinture murale lui rend hommage dans la ville universitaire de Louvain-la-Neuve en Belgique, dans le parking situé sous la place des Sciences.\n\n"
+    },
+    {
+      "title": "BD",
+      "level": 3,
+      "content": "• Baudouin Deville (dessin), Rudi Miel (scénario) et Bérengère Marquebreucq (couleurs), Coq-sur-Mer 1933, Anspach, Bruxelles, 2022.\n\n"
+    },
+    {
+      "title": "Notes",
+      "level": 3,
+      "content": "• Il fut successivement allemand, apatride (entre 1896 et 1901), suisse (1901) et brièvement helvéto-autrichien et helvéto-allemand avant d'avoir la double nationalité helvéto-américaine (1940) ; voir « Albert Einstein’s nationality »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?).\n• Plus précisément, « pour ses services à la physique théorique, et spécialement pour sa découverte de la loi de l'effet photoélectrique » ((en) « for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect » in Personnel de rédaction, « The Nobel Prize in Physics 1921 », Fondation Nobel, 2010. Consulté le 15 juin 2010).\n• La date de naissance d’Albert Einstein est également la journée de π.\n• « Même à neuf ans […] « il continuait à manquer de facilité de parole et tout ce qu'il disait n'était exprimé qu'après mûre considération et réflexion. »\n• …mon professeur de grec me convoqua pour exprimer son désir de me voir quitter l'école. Comme je lui faisais remarquer que je n’avais rien fait de mal, il se contenta de me répondre « vous altérez le respect de la classe à mon égard par votre seule présence ».\n• Selon le numéro spécial de Pour la Science qui lui est consacré ; « L'année 1902 marque un tournant. Hermann Einstein meurt et, de ce fait, l'opposition de la famille Einstein s'estompe. Albert épouse Mileva. La même année, il obtient la nationalité suisse. Enfin, il trouve, grâce à Grossmann, un emploi fixe au Bureau des brevets de Berne, ville où le couple s'installe dans le courant de l'année ».\n• Dans Il était sept fois la révolution, Albert Einstein et les autres, Étienne Klein indique que cette traduction lui semble réductrice, et qu’il préfère « Bureau de la propriété intellectuelle ».\n• 2005 fut l’année mondiale de la physique, mais aussi l’année d’Einstein, pour la célébration du centenaire de l’annus mirabilis.\n• Viereck, écrivain germano-américain pro-nazi, a interviewé de nombreuses personnalités : Freud, Foch, Georges Clemenceau, George Bernard Shaw, Oswald Spengler, Benito Mussolini, la reine Élisabeth de Belgique, Henry Ford, Albert Moll, Magnus Hirschfeld, Freud, Hitler, Mussolini.\n• Kepler est cependant connu pour avoir accepté d'établir des thèmes astraux et financé par ce moyen une partie de ses recherches.\n\n"
+    },
+    {
+      "title": "Références",
+      "level": 3,
+      "content": "• Christian BRACCO, L’environnement scientifique du jeune Albert Einstein à Pavie et à Milan : Jakob Einstein, membre du cercle d’ingénieurs polytechniciens de Münich, a créé en 1876 la Fabrik für Wasserförderungen und Centralheizung et s'est associé en 1880 avec Hermann, le père d'Einstein. La compagnie vend des dynamos et des téléphones, et participe à l'éclairage public d'une dizaine de communes. Elle devient l’Elektrotechnische Fabrik J. Einstein und Co. de 1885 à 1894, puis est créée l’Officine Elettrotecniche Nazionali Einstein, Garrone e C. (1894-1896) à Pavie, avec des bureaux à Milan et à Turin. Les Einstein ont participé à l'exposition de Münich de 1882 et à celle de Frankfort de 1891. Il y avait dans le bureau de Jakob des revues techniques de bonne qualité.\n• Einstein's Miracle Year, documentaire de la série Horizon de la BBC.\n• (de) E. Heis,T. J. Eschweiler, Lehrbuch der Geometric zum Gebrauch an hoheren Lehranstalten, Du-Mont and Schauberg, Cologne, 1867.\n• (en) Abraham Pais, 'Subtle is the lord…' the science and the life of Albert Einstein, p. 38.\n• d'après Roman Jackobson, « Einstein et la science du langage », dans Le Débat, mai 1982, 131-142.Originale dans P. Frank, Einstein : His Life and Times, traduit en anglais par George Rosen, édité et revu par Shuichi Kusaka, New York, Alfred A. Knopf, 1947, p. 8, 10. [Traduction française par A. Georges, Einstein, sa vie, son temps, Paris, Albin Michel, 1950.]\n• (en) Jean-Claude Boudenot (préf. Claude Cohen-Tannoudji), Comment Einstein a changé le monde, Les Ulis, EDP sciences, 2005, 192 p. (ISBN 978-2-759-80224-1, OCLC 230760088, lire en ligne), p. 14.\n• (en) Museo per la Storia dell'Università di Pavia, « Einstein, Albert », sur musei.unipv.eu.\n• Vicenzo Barone, Einstein : les vies d'Albert, De Boeck Superieur, 2017, 208 p. (lire en ligne), p. 9.\n• (de + en) Caspar Battegay, Naomi Lubrich, Jewish Switzerland: 50 Objects Tell Their Stories, ChristopehMerian, 2018, 231 p. (ISBN 9783856168476), p. 152\n• Boudenot 2005, p. 14.\n• « La thèse d'Einstein aux enchères ! », Futura Sciences,‎ 13 mars 2009 (lire en ligne, consulté le 13 janvier 2017).\n• (en) Abraham Pais, The science and the life of Albert Einstein, p. 66.\n• (en) Abraham Pais, 'Subtle is the lord…' the science and the life of Albert Einstein.\n• (en) Michele Zackheim, Einstein’s Daughter: the Search for Lieserl. Penguin Putnam, 1999\n• (en) Short life history: Lieserl Einstein-Maric\n• Les génies de la science, page 10.\n• (fr + de + it + en + rm) « Einstein examinateur de brevets », sur Institut Fédéral de la Propriété Intellectuelle, 6 février 2014 (consulté le 8 décembre 2014).\n• (en) « The Nobel Prize in Physics 1921: Albert Einstein », sur nobelprize.org (consulté le 15 mars 2017).\n• « Albert Einstein, IAS », sur Institute for Advanced Studies.\n• Science & Vie Junior - Les Indispensables, no 4 : La Seconde Guerre mondiale.\n• (en) « Einstein's Letter to President Roosevelt », sur atomicarchive.com, 1939 (consulté le 13 janvier 2017).\n• Anne-Laure Lebrun, « Anévrisme de l’aorte abdominale. Un dépistage méconnu et débattu », Que Choisir (magazine), 25 mars 2022 (consulté le 15 avril 2022).\n• « Einstein : l'incroyable destin de son cerveau… après sa mort », Sciences et Avenir,‎ 19 janvier 2015 (lire en ligne, consulté le 13 janvier 2017).\n• « Le cerveau hyperconnecté d'Einstein peut expliquer son génie », Sciences et Avenir,‎ 10 octobre 2013 (lire en ligne, consulté le 13 janvier 2017).\n• Avram Hayli, « Albert Einstein : un centenaire », Astronomie, vol. 95,‎ 1981, p. 267-283 (lire en ligne, consulté le 10 novembre 2020).\n• Paul Halpern, Le dé d'Einstein et le chat de Schrödinger : Quand deux génies s'affrontent, Dunod, coll. « Science », 432 p. (lire en ligne), p. 214.\n• François de Closets, Ne dites pas à Dieu ce qu'il doit faire, Média Diffusion, coll. « social Science », 448 p. (lire en ligne), p. 264.\n• [vidéo] sur Archive.org. Albert Einstein - E = mc² : Albert Einstein explique lui-même sa théorie.\n• Jean-Jacques Samueli et Jean-Claude Boudenot (préf. Édouard Brézin), 30 ouvrages de mathématiques qui ont changé le monde, Paris, Ellipses, 2006, 413 p. (ISBN 978-2-729-82788-5 et 2-729-82788-9, BNF 40212298), p. 384.\n• Jacques Merleau-Ponty 1993, p. 138-143.\n• (en) Albert Einstein, « The Foundation of the General Theory of Relativity », Annalen der Physik, vol. 49, no 7,‎ 1916, p. 769–822 (ISSN 0003-3804, DOI 10.1002/andp.19163540702, Bibcode 1916AnP...354..769E, lire en ligne [PDF], consulté le 3 septembre 2006).\n• Françoise Balibar, préface d'Albert Einstein, Comment je vois le monde (extraits), supplément offert du no 95 de Philosophie Magazine, décembre 2015-janvier 2016.\n• (en-US) Charles Lane Poor, « The Deflection of Light as Observed at Total Solar Eclipses », Journal of the Optical Society of America, no Vol. 20, Issue 4,‎ 1930, p. 173-211.\n• (en) Philip Ball, « Arthur Eddington was innocent! », sur nature.com (consulté le 4 décembre 2015).\n• Einstein, Solovine et Hanrion 2009, p. 69.\n• Introduction de 1934 au chapitre 1 de Einstein, Solovine et Hanrion 2009, p. 9-10. À noter que ce texte figurait dans l'édition originale de 1934 dans une traduction différente (due au colonel d'artillerie Georges Cros : cf. « Note de l'éditeur », p. 5, malgré sa coquille « colonel Gros [sic] ») et qui a connu deux versions ultérieures (retrad. augm. Solovine, 1958 ; rév. Hanrion, 1979) : on donne ici la traduction finale de l'édition de 1979.\n• Tom Segev, One Palestine Complete, Holt Paperbacks, p. 202–204.\n• Jewish Virtual Library Letter Offering Albert Einstein the Presidency of Israel, November 17, 1952/ Einstein on Decision to Not Accept Presidency Offer….\n• (en) Stephen Hawking, A Brief History of Time, Random House, 2017, 216 p. (ISBN 978-0-553-38016-3), p. 193.\n• Banesh Hoffmann et Helen Dukas (trad. Maurice Manly), Albert Einstein : créateur et rebelle [« Albert Einstein, creator and rebel »], Paris, Éditions du Seuil, coll. « Sciences » (no S19), 1975, 299 p. (ISBN 978-2-020-05347-1, OCLC 32648342), p. 153.\n• Une physique aryenne sur le site slatersoft.com.\n• [PDF] Discription? sur le site ame.epfl.ch.\n• Voir L’Éclaireur de Nice, 28 mars 1933.\n• « Albert Einstein », sur larousse.fr (consulté le 8 septembre 2018).\n• Ilya Herenbourg, Vassili Grossman, Yves Gauthier (traducteur) et al., Le Livre noir sur l'extermination scélérate des juifs par les envahisseurs fascistes allemands dans les régions provisoirement occupées de l'URSS et dans les camps d'extermination en Pologne pendant la guerre de 1941-1945 : textes et témoignages, Arles (France, Solin Actes Sud, coll. « Hébraica », 1995, 1130 p. (ISBN 978-2-742-70623-5 et 2-742-70623-2, OCLC 878669455).\n• (en) New York Time, 4 décembre 1948.\n• (en) Why Socialism?, par Albert Einstein.\n• Traduction du texte précédent en français sur le site marxists.org, consulté le 31 juillet 2013.\n• (en) Federal Bureau of Investigation – Freedom of Information Privacy Act.\n• Pierre Larivière, « Les Sans-Patrie contre les Bellicistes et la Barbarie Nationaliste », Le Pionnier, no 21, septembre 1923.\n• Fred Jerome, Einstein l'antiraciste, Paris, Éd. Duboiris, 2012 (ISBN 978-2-916-87218-6), traduction du livre de Fred Jerome et Rodger Taylor paru en 2005 aux États-Unis, (en) Einstein on race and racism, paru en français aux Éditions Duboiris en 2012 (en) Einstein l'antiraciste.\n• Einstein, Solovine et Hanrion 2009, p. 7.\n• Einstein, Solovine et Hanrion 2009, p. 41.\n• Einstein, Solovine et Hanrion 2009, p. 42.\n• Einstein, Solovine et Hanrion 2009, p. 42-49.\n• (en) Philip Sington, The Einstein Girl, Random House, 2011, 400 p..\n• Biographie d'Einstein sur le site de l'IN2P3\n• Gwendoline Dos Santos, Frédéric Lewino, « 2 juin 1919. Après avoir abandonné son épouse, Einstein épouse sa double cousine. », Le Point,‎ 1er juin 2012 (lire en ligne, consulté le 13 janvier 2017).\n• (en) Roger Highfield et Paul Carter, The Private Lives of Albert Einstein, New York, St. Martin's Press, 1994, xii-353 (ISBN 978-0-312-11047-5, OCLC 921932833), p. 147.\n• Stachel J, Cassidy DC, Schulmann R (éds.), Collected papers of Albert Einstein, the early years 1899-1902, Princeton University Press, 1987.\n• (en) Ronald William Clark, Einstein : the life and times, Avon Books, 1972 (ISBN 0-380-44123-3, 978-0-380-44123-5 et 0-380-01159-X, OCLC 8329572)\n• (en)Barry Parker (2003) : Einstein : Les passions d'un scientifique. Livres de Prométhée. New York. p. 236.\n• (en) Alice Calaprice, Daniel Kennefick, Robert Schulmann, An Einstein Encyclopedia, Princeton University Press, 2015 (ISBN 9780691141749), p. 59-60.\n• (en) George Sylvester Viereck, « What Life Means to Einstein: An Interview by George Sylvester Viereck », The Saturday Evening Post,‎ 26 octobre 1929 (lire en ligne [PDF], consulté le 5 janvier 2025).\n• (en-US) « Albert Einstein: Original Letters in Aid of his Brethren », sur Shapell (consulté le 6 août 2021).\n• New York Times Magazine (9 novembre 1930), traduit en français dans Comment je vois le monde.\n• François Vannucci, « Einstein: comment croire en Dieu quand on est scientifique? », sur slate.fr, 4 décembre 2018 (consulté le 6 juillet 2019).\n• Einstein 2009 (éd. 1979), p. 185-186.\n• « Subtle is the Lord, but malicious He is not », remarque faite durant la première visite d'Einstein à Princeton, en avril 1921 ; citée dans R. W. Clark, Einstein (1973), Ch. 14.\n• (en) Max Jammer, Einstein and Religion p. 151.\n• « La 'Lettre à Dieu' d’Albert Einstein mise aux enchères sur eBay pour 3 millions de dollars »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur fr.express.live, 11 octobre 2012 (consulté le 13 janvier 2017).\n• (en) « Einstein ‘God Letter’ Sold On eBay For Just Over $3 Million ».\n• lettre à Éric Gutkind 3 janvier 1954, Einstein Archive, p. 59-897.\n• Dico-citations.com.\n• Richard Dawkins, Pour en finir avec Dieu, chapitre 1.\n• (en) Was Einstein an atheist?, sur le site physicsworld.com ; la citation utilisée est : « It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal. »\n• Harry Kessler, CAHIERS 1918-1937.\n• (en) « Albert Einstein : \"Imagination Is More Important Than Knowledge\" », sur The Saturday Evening Post, 20 mars 2010 (consulté le 3 novembre 2021).\n• (en) « Imagination Is More Important Than Knowledge », sur saturdayeveningpost.com (consulté le 13 janvier 2017).\n• (en) « Did Einstein comment on feeling the presence of Jesus while reading the Gospels? », sur Skeptics Stack Exchange (consulté le 15 juillet 2020).\n• Encyclopédie de la philosophie, Garzanti, le livre de poche.\n• Bergia 2004, p. 15.\n• déjà évoquée par Lorentz dans sa transformation et par Poincaré dans La science et l'hypothèse.\n• (en) David E. Rowe et Robert J. Schulmann, Einstein on politics : his private thoughts and public stands on nationalism, Zionism, war, peace, and the bomb, Princeton, Princeton University Press, 2007, 523 p. (ISBN 978-0-691-12094-2 et 978-0-691-16020-7, OCLC 76901991), p. 136.\n• « Un document inédit d'Albert Einstein émerge du passé », sur The Times of Israël, 6 mars 2019 (consulté le 6 juillet 2019).\n• Michel Paty, Einstein philosophe: la physique comme pratique philosophique, Presses Univ. de France, coll. « Philosophie d'aujourd'hui », 1993 (ISBN 978-2-13-044853-2)\n• [PDF]Albert Einstein, astrologue ? Vous voulez rire ? La fin d’un canular, sur le site sceptiques.qc.ca.\n• (en) Johannes Kepler : Life and Letters (édition 1952, Londres, Victor Gollancz LTD).\n• Denis Hamel, « Les grands esprits manipulés par les astrologues », Le Québec sceptique numéro 57.\n• Einstein Archive 60-058).\n• Lettre à Hermann Huth, 27 décembre 1930. Einstein Archive 46-756.\n• (en) Alice Calaprice, The Expanded Quotable Einstein, Princeton (New Jersey), Princeton University Press, 578 p. (ISBN 0-691-07021-0, lire en ligne).\n• (en) « History of Vegetarianism - Albert Einstein (1879-1955) », sur ivu.org (consulté le 19 juillet 2019).\n• Einstein, Solovine et Hanrion 2009, « Les idéaux juifs ».\n• Boris Kouznetsov, Einstein, Moscou, Éditions du Progrès, 1989, 328 p. (ISBN 5010011824), p. 31.\n• (en) « einstein-invention.pdf », Brevet pour un réfrigérateur déposé le 11 novembre 1930.\n• (en) József Illy, The Practical Einstein Experiments, Patents, Inventions, Baltimore, Johns Hopkins University Press, 2012, 216 p. (ISBN 9781421411712).\n• Sudden Death, Rita Mae Brown, New York, Bantam, 1983, p. 68 ; on peut en trouver confirmation dans The Ultimate Quotable Einstein, Alice Calaprice, Princeton University Press, Princeton, 2011, p. 474.\n• (en) « Left Handed Einstein », sur beinglefthanded.com.\n• (en) Hans-Josef Küpper, « Answers to FAQ concerning Albert Einstein. »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur einstein-website.de.\n• (en) « Chicago Tribune photograph », blogs.chicagotribune.com (consulté le 24 janvier 2016).\n• (en) Michael Price, « The left brain knows what the right hand is doing », American Psychological Association, vol. 40, no 1,‎ janvier 2009, p. 60 (lire en ligne).\n• Alfonso San Miguel et Bernard Pallandre, « Revisiting the Einstein-de Haas experiment: the Ampère Museum's hidden treasure », Europhysics News,‎ 13 mars 2024, p. 12-14 (lire en ligne)\n• (en-GB) Hamish Johnston, « Einstein’s only experiment is found in French museum », sur Physics World, 17 mars 2024 (consulté le 24 mars 2024)\n• sur www.einstein.caltech.edu\n• Étienne Klein, « Albert Einstein, la fabrique d'un génie », sur lepoint.fr, 22 août 2016 (consulté le 11 septembre 2018).\n• (en) Steven Levy, « The Search for Einstein’s Brain », New Jersey Monthly (en),‎ aout 1978 (lire en ligne, consulté le 3 octobre 2019) : \n« Now my editor wanted to know where the brain was. And he wanted me to find it. »\n• « La clé du génie d'Einstein ? », Science et Vie, novembre 2005, p. 71.\n• Michael Hagner, Des cerveaux de génie: Une histoire de la recherche sur les cerveaux d'élite, Les Éditions de la MSH, 15 mai 2014 (ISBN 9782735113460, lire en ligne), p. 297. Barthes poursuit : « Paradoxalement, la plus grande intelligence forme l'image de la mécanique la mieux perfectionnée, l'homme trop puissant est séparé de la psychologie, introduit dans un monde de robot. » Le mythe d'Albert Einstein tient donc au fait qu'il n'y a pas de secrets.\n• (en) Terence Hines, « Neuromythology of Einstein’s brain », Brain and Cognition, vol. 88,‎ 1er juillet 2014, p. 21-25 (DOI 10.1016/j.bandc.2014.04.004, lire en ligne, consulté le 13 janvier 2017).\n• The Lancet.\n• (en) John Faber, Great Moments in News Photography: From the Historical Files of the National Press Photographers Association, Nelson, 1960, p. 108.\n• (en) « Iconic Photo of Einstein Sticking Out His Tongue Sells for $125,000 », sur Live Science, 29 juillet 2017.\n\n« It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal. »\n\n« Now my editor wanted to know where the brain was. And he wanted me to find it. »\n\n"
+    },
+    {
+      "title": "Bibliographie",
+      "level": 3,
+      "content": "Cette bibliographie contient quelques ouvrages pour aborder le personnage d’Einstein et son œuvre. Pour des ouvrages plus techniques, le lecteur se reportera aux bibliographies des articles spécialisés citées ci-dessous.\n\n• Françoise Balibar, Einstein : la joie de la pensée, Paris, Gallimard, coll. « Découvertes », 1993 (ISBN 9782070532209).\n• Banesh Hoffmann, Albert Einstein : créateur et rebelle, Paris, Éditions du Seuil, coll. « Points-Sciences », 1975 (ISBN 9782020053471). Une biographie au format poche, par un ancien collaborateur d’Einstein à l’Institute for Advanced Studies de Princeton.\n• Philippe Frank, Einstein : sa vie et son temps. Collection Les savants & le monde, Albin Michel (Paris 1950). Réédition en poche dans la collection Champs, Flammarion, 1993  (ISBN 978-2-08-081242-1). Une biographie autorisée de première main par celui qui fut le successeur d’Einstein à la chaire de physique théorique de l’université de Prague, nommé sur sa recommandation. Très documentée, elle décrit le contexte historique (scientifique et politique) de la genèse des travaux d’Einstein.\n• Abraham Pais, Albert Einstein : la vie et l'œuvre, Paris, Dunod, 2005 (1re éd. Intereditions (1993)) (ISBN 9782100493890). La biographie scientifique qui fait aujourd’hui autorité depuis sa parution en 1982, par un professeur de l’université Rockefeller qui a connu Einstein dans les dernières années de sa vie. Contenu très riche. Le niveau de certains passages techniques est celui d’un second cycle universitaire.\n• Jacques Merleau-Ponty, Einstein, Flammarion, coll. « Figures de la science », 1993 (ISBN 978-2082112024). Réédité en poche chez Flammarion, coll. « Champs »,  (ISBN 978-2-08-081338-1). Cet ouvrage se compose de trois parties : la première retrace la vie d'Albert Einstein, la seconde présente son œuvre scientifique d'une manière détaillée, la troisième constitue un essai sur sa philosophie.\n• (de) Christof Rieber, Albert Einstein. Biografie eines Nonkonformisten., Ostfildern, 2018 (ISBN 978-3-7995-1281-7)\n• Fred Jeromeauteur2=Rodger Taylor (trad. Alicia Krieger), Einstein l'antiraciste [« Einstein on race and racism. »], Paris, Éd. Duboiris, coll. « Itinéraire », 2012 (ISBN 978-2-916-87218-6, OCLC 810666269, BNF 42717107).\n• Antonina Vallentin, Le drame d'Albert Einstein, Paris, Plon, 1954.\n• François Levy, Einstein, Éditions Duculot, coll. « Biographies <travelling> », 1980.\n• David Blanco Laserna, L'espace est une question de temps, Einstein et la relativité, RBA, coll. « Grandes idées de la science », 2013.\n• Les génies de la science, no 11, « Einstein : Le père du temps moderne », Pour la science,‎ mai-août 2002.\n• Paul Langevin, L'œuvre d'Einstein et l'astronomie, Revue mensuelle d'astronomie, Paris, 1931.\n• Luce Langevin, Paul Langevin et Albert Einstein d'après une correspondance et des documents inédits, La Pensée, 1972.\n• Jean Langevin et Michel Paty, Note à propos du séjour d'Einstein en France en 1922, La Pensée, 1979.\n• Michel Paty, Einstein philosophe : la physique comme pratique philosophique, Paris, PUF, 1993.\n• Michel Paty, Albert Einstein ou La création scientifique du monde, Paris, Les Belles Lettres, 1997.\n• Albert Einstein, Journal de voyage (Extrême-Orient, Palestine, Espagne - 1922-1923), préface de William Marx, traduit par Stéphane Zékian, Payot, 2019.\n\n"
+    },
+    {
+      "title": "Ouvrages de vulgarisation",
+      "level": 4,
+      "content": "• Banesh Hoffmann, Histoire d’une grande idée : la relativité. Éditions Pour La Science (1985), diffusion Belin (ISBN 2-9029-1844-5). Un exposé remarquable pour sa clarté et sa simplicité de la relativité, par un ancien collaborateur d’Einstein à l’Institute for Advanced Studies de Princeton.\n• Thibault Damour, Si Einstein m’était conté, Paris, Le Cherche midi, 2012 (lire en ligne). Un spécialiste français des théories de la relativité nous livre « son » Einstein sans équation. Thibault Damour est professeur permanent à l’Institut des hautes études scientifiques (IHÉS) de Bures-sur-Yvette ; il a longtemps enseigné la relativité générale au DEA de physique théorique de la rue d’Ulm.\n• Silvio Bergia, Einstein : Le père du temps moderne, Belin, coll. « Pour la science / Génie des sciences », 2004, 160 p. (ISBN 9-782842-450717).\n• Paul Couderc, La relativité, PUF, coll. « Que sais-je ? », no 37, 1941.\n• Nayla Farouki, La relativité, Flammarion, coll. « Dominos », no 10, 1993.\n\n"
+    },
+    {
+      "title": "Ouvrages techniques",
+      "level": 4,
+      "content": "• Jean Eisenstaedt, Einstein et la relativité générale, France Paris, CNRS Éditions, 2007, 345 p. (ISBN 9782271065353).  — Préface de Thibault Damour.\n• (en) Alain Aspect, Michèle Leduc (éditeur) et Michel Le Bellac (éditeur), Einstein aujourd'hui, Les Ulis France Paris, EDP Sciences CNRS Éditions, 2005, 428 p. (ISBN 2868837689).\n\n"
+    },
+    {
+      "title": "Articles",
+      "level": 4,
+      "content": "• Christian Bracco, « L’environnement scientifique du jeune Albert Einstein : La période milanaise (1899-1901) », Revue d'histoire des sciences, vol. 68, no 3, 2015, p. 109-144 (lire en ligne).\n• Jean Le Tourneux, « Pourquoi Einstein inventa-t-il une théorie dont personne n'avait besoin ? », Études françaises, vol. 26, no 3, hiver 1990, p. 91-99 (lire en ligne).\n\n"
+    },
+    {
+      "title": "Autres",
+      "level": 4,
+      "content": "• Coriolano Alberini, La Reforma epistemologica de Einstein, 1925.\n• Le personnage d'Einstein devient le programme informatique holographique de Robinette Broadhead dans le cycle romancé de science-fiction La Grande Porte (créé par l'épouse de ce dernier, Semnya Ya Lavorovna).\n• Albert Einstein est incarné par John Rubinstein dans le premier épisode de la deuxième saison de la série Legends of Tomorrow\n• Dans la saga Alerte Rouge, John Milford incarne Albert Einstein, qui a développé une machine à voyager dans le temps et a effacé Hitler de l'histoire.\n• Dans l’épisode 1 de la saison 2 de Rick et Morty : Lors de la scène post-générique un personnage fait référence à Albert Einstein.\n\n"
+    },
+    {
+      "title": "Iconographie",
+      "level": 3,
+      "content": "• Buste par le sculpteur français Robert Mermet (1896-1988), non localisé.\n• Portrait par le photographe canadien Yousuf Karsh (1908-2002) pris en 1948 à Princeton.\n\n• Bulletin no 17 de l'association Les Mermet de mars 2007.\n• (en) « Albert Einstein by Yousuf Karsh », sur aCurator (consulté le 15 juillet 2020).\n\n"
+    },
+    {
+      "title": "Articles connexes",
+      "level": 3,
+      "content": "• Se reporter aux bibliographies des articles spécialisés : Relativité restreinte, Relativité générale et Physique quantique\n• Loi de Nernst-Einstein\n• Statistique de Bose-Einstein\n• Théorie d'Einstein-Fokker\n• Mileva Einstein\n• Annus mirabilis d'Albert Einstein\n• Correspondance entre Albert Einstein et Max Born\n• Descendance d'Albert Einstein, Hans Albert Einstein (1904-1973), Eduard Einstein (fils cadet) (de) (1910-1965)\n• Cerveau d'Albert Einstein\n\n"
+    },
+    {
+      "title": "Liens externes",
+      "level": 3,
+      "content": "• « Einstein, l'année miraculeuse », La Science, CQFD, série de 4 émissions, France Culture, février - mars 2025.\n• Le centenaire des travaux d’Albert Einstein – Bibliographie d’ouvrages sur l’œuvre d’Albert Einstein sur le site du ministère de l’Enseignement supérieur et de la Recherche.\n• « Albert Einstein, le précurseur Retour sur les contributions scientifiques du grand physicien théoricien. », La Méthode scientifique, série de 3 émissions,  France Culture, 7 janvier 2021.\n• Œuvres d’Albert Einstein\n• Travaux par ou sur Albert Einstein sur Internet Archive\n• (en) Einstein Papers Project Sur le site einstein.caltech.edu\n• (en) Toutes les archives d’Einstein Sur le site alberteinstein.info\n\n• Notices d'autorité : VIAF ISNI BnF (données) IdRef LCCN GND Italie Japon CiNii Espagne Belgique Pays-Bas Pologne Israël NUKAT Catalogne Suède Vatican WorldCat\n• Notices dans des dictionnaires ou encyclopédies généralistes : American National Biography Base de données des élites suisses Biographie nationale de Belgique Britannica Brockhaus Den Store Danske Encyklopædi Deutsche Biographie Dictionnaire historique de la Suisse Enciclopedia italiana Enciclopedia De Agostini Encyclopédie de l'Ukraine moderne Gran Enciclopedia Aragonesa Gran Enciclopèdia Catalana Hrvatska Enciklopedija Internetowa encyklopedia PWN Larousse Nationalencyklopedin Munzinger Proleksis enciklopedija Store norske leksikon Treccani Universalis Visuotinė lietuvių enciklopedija\n• Ressources relatives à la recherche : Atomic Heritage Foundation Les Classiques des sciences sociales La France savante Google Scholar INSPIRE-HEP Mathematics Genealogy Project ORCID Persée Scopus Semantic Scholar\n• Ressources relatives à l'audiovisuel : Allociné American Film Institute British Film Institute Filmportal Filmweb.pl IMDb Rotten Tomatoes\n• Ressources relatives aux beaux-arts : Bridgeman Art Library British Museum MutualArt National Portrait Gallery Union List of Artist Names\n• Ressources relatives à la musique : Carnegie Hall Discogs MusicBrainz Muziekweb Répertoire international des sources musicales\n• Ressources relatives au spectacle : Les Archives du spectacle Kunstenpunt\n• Ressource relative à la vie publique : Documents diplomatiques suisses 1848-1975\n• Ressource relative à la littérature : Internet Speculative Fiction Database\n• Ressource relative à l'astronomie : Biographical Encyclopedia of Astronomers\n• Ressource relative à la santé : Bibliothèque interuniversitaire de santé\n• Ressource relative à plusieurs domaines : Radio France\n• Ressource relative à la bande dessinée : Comic Vine\n\n• VIAF\n• ISNI\n• BnF (données)\n• IdRef\n• LCCN\n• GND\n• Italie\n• Japon\n• CiNii\n• Espagne\n• Belgique\n• Pays-Bas\n• Pologne\n• Israël\n• NUKAT\n• Catalogne\n• Suède\n• Vatican\n• WorldCat\n\n• American National Biography\n• Base de données des élites suisses\n• Biographie nationale de Belgique\n• Britannica\n• Brockhaus\n• Den Store Danske Encyklopædi\n• Deutsche Biographie\n• Dictionnaire historique de la Suisse\n• Enciclopedia italiana\n• Enciclopedia De Agostini\n• Encyclopédie de l'Ukraine moderne\n• Gran Enciclopedia Aragonesa\n• Gran Enciclopèdia Catalana\n• Hrvatska Enciklopedija\n• Internetowa encyklopedia PWN\n• Larousse\n• Nationalencyklopedin\n• Munzinger\n• Proleksis enciklopedija\n• Store norske leksikon\n• Treccani\n• Universalis\n• Visuotinė lietuvių enciklopedija\n\n• Atomic Heritage Foundation\n• Les Classiques des sciences sociales\n• La France savante\n• Google Scholar\n• INSPIRE-HEP\n• Mathematics Genealogy Project\n• ORCID\n• Persée\n• Scopus\n• Semantic Scholar\n\n• Allociné\n• American Film Institute\n• British Film Institute\n• Filmportal\n• Filmweb.pl\n• IMDb\n• Rotten Tomatoes\n\n• Bridgeman Art Library\n• British Museum\n• MutualArt\n• National Portrait Gallery\n• Union List of Artist Names\n\n• Carnegie Hall\n• Discogs\n• MusicBrainz\n• Muziekweb\n• Répertoire international des sources musicales\n\n• Les Archives du spectacle\n• Kunstenpunt\n\n• Documents diplomatiques suisses 1848-1975\n\n• Internet Speculative Fiction Database\n\n• Biographical Encyclopedia of Astronomers\n\n• Bibliothèque interuniversitaire de santé\n\n• Radio France\n\n• Comic Vine\n\n• Portail de la physique\n• Portail de l’optique\n• Portail de la cosmologie\n• Portail de la culture juive et du judaïsme\n• Portail de l’énergie\n• Portail du prix Nobel\n• Portail de la paix\n• Portail des sciences quantiques\n• Portail de la république de Weimar\n\n"
+    }
+  ]
+}

@@ -130,7 +130,6 @@ dmypy.json
 
 # WikiTranslateAI specific
 *.log
-logs/
 data/temp/
 data/checkpoints/
 temp_*.json
@@ -141,14 +140,10 @@ temp_*.json
 config_local.yaml
 secrets.yaml
 
-# Large data files
+# Large corpus files (keep structure but exclude large data)
 data/corpus/*/*.tsv
 data/corpus/*/*.txt
 data/corpus/*/*.zip
-data/articles_raw/
-data/articles_cleaned/
-data/articles_segmented/
-data/articles_translated/
 
 # Cache
 .cache/
@@ -156,17 +151,9 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Exclude Claude AI/Claude Code files and directories (as requested)
-CLAUDE.md
-.claude/
-*claude*
-*Claude*
-
-# Exclude test directories and files (as requested)
-tests/
-test_*/
-*test*.py
-
-# Exclude analysis and development files
-ANALYSE_FINALE_ULTRA_CRITIQUE.md
-RAPPORT_TEST_INTERACTIF.md
+# Development temporary files
+*~
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
