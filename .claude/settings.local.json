@@ -1,12 +1,1 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(source:*)",
-      "Bash(python:*)",
-      "Bash(find:*)",
-      "Bash(ls:*)",
-      "Bash(pip install:*)"
-    ],
-    "deny": []
-  }
-}
+
